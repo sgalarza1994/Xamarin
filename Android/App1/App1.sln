@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1.csproj", "{1107EEEA-CD08-41AD-9057-2C8DCDD703C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotXamarin.Core", "..\NotXamarin.Core\NotXamarin.Core.csproj", "{BA93861B-9977-4690-A7DD-74D366B3379F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{1107EEEA-CD08-41AD-9057-2C8DCDD703C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1107EEEA-CD08-41AD-9057-2C8DCDD703C3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1107EEEA-CD08-41AD-9057-2C8DCDD703C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BA93861B-9977-4690-A7DD-74D366B3379F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA93861B-9977-4690-A7DD-74D366B3379F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA93861B-9977-4690-A7DD-74D366B3379F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA93861B-9977-4690-A7DD-74D366B3379F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

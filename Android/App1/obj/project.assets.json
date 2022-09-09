@@ -843,6 +843,19 @@
         "build": {
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
+      },
+      "NotXamarin.Core/1.0.0": {
+        "type": "project",
+        "framework": "MonoAndroid,Version=v12.0",
+        "dependencies": {
+          "Xamarin.AndroidX.AppCompat": "1.2.0.5"
+        },
+        "compile": {
+          "bin/placeholder/NotXamarin.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NotXamarin.Core.dll": {}
+        }
       }
     }
   },
@@ -1684,10 +1697,16 @@
         "xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
+    },
+    "NotXamarin.Core/1.0.0": {
+      "type": "project",
+      "path": "../NotXamarin.Core/NotXamarin.Core.csproj",
+      "msbuildProject": "../NotXamarin.Core/NotXamarin.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v12.0": [
+      "NotXamarin.Core >= 1.0.0",
       "Xamarin.AndroidX.AppCompat >= 1.2.0.5",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Google.Android.Material >= 1.0.0.1"
@@ -1700,11 +1719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dts\\cursos\\xamarin\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\dts\\cursos\\xamarin\\Android\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\dts\\cursos\\xamarin\\App1\\App1.csproj",
+      "projectPath": "C:\\dts\\cursos\\xamarin\\Android\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\dts\\cursos\\xamarin\\App1\\obj\\",
+      "outputPath": "C:\\dts\\cursos\\xamarin\\Android\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1724,7 +1743,11 @@
       },
       "frameworks": {
         "monoandroid12.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\dts\\cursos\\xamarin\\Android\\NotXamarin.Core\\NotXamarin.Core.csproj": {
+              "projectPath": "C:\\dts\\cursos\\xamarin\\Android\\NotXamarin.Core\\NotXamarin.Core.csproj"
+            }
+          }
         }
       }
     },

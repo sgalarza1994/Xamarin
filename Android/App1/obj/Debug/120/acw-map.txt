@@ -1,6 +1,12 @@
 App1.MainActivity, App1;crc64a7a6b04b89628087.MainActivity
 App1.MainActivity;crc64a7a6b04b89628087.MainActivity
 app1.MainActivity;crc64a7a6b04b89628087.MainActivity
+App1.NewsListActivity, App1;crc64a7a6b04b89628087.NewsListActivity
+App1.NewsListActivity;crc64a7a6b04b89628087.NewsListActivity
+app1.NewsListActivity;crc64a7a6b04b89628087.NewsListActivity
+App1.adapters.NewsListAdapter, App1;crc646bef0735064f4f17.NewsListAdapter
+App1.adapters.NewsListAdapter;crc646bef0735064f4f17.NewsListAdapter
+app1.adapters.NewsListAdapter;crc646bef0735064f4f17.NewsListAdapter
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

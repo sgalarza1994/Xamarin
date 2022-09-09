@@ -7,13 +7,15 @@ using AndroidX.AppCompat.Widget;
 using AndroidX.AppCompat.App;
 using Google.Android.Material.FloatingActionButton;
 using Google.Android.Material.Snackbar;
-
+using NotXamarin.Core.Services;
 
 namespace App1
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar")]
     public class MainActivity : AppCompatActivity
     {
+        internal static string KEY_ID = "KEY_ID";
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -27,12 +29,18 @@ namespace App1
             fab.Click += FabOnClick;
 
 
+            var id = Intent.Extras.GetInt(KEY_ID);
+
+            var newsService = new NewsService();
+            var news = newsService.GetNewsBiId(id);
+
             var newsTitle = FindViewById<Android.Widget.TextView>(Resource.Id.txtTitulo);
             var newsBodgy = FindViewById<Android.Widget.TextView>(Resource.Id.txtDescripcion);
             var newsImage = FindViewById<Android.Widget.ImageView>(Resource.Id.imgNotificacion);
 
-            newsTitle.Text = "Ese es un titulo";
-            newsBodgy.Text = "Xamarin es una compania de softwar estadounidense";
+            newsTitle.Text = news.Title;
+            newsBodgy.Text = news.Body;
+
 
             var icon = GetDrawable(Resource.Drawable.carnet);
             newsImage.SetImageDrawable(icon);

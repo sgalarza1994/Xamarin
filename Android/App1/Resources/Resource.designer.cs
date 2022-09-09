@@ -25,6 +25,1708 @@ namespace App1
 		
 		public static void UpdateIdValues()
 		{
+			global::NotXamarin.Core.Resource.Animation.abc_fade_in = global::App1.Resource.Animation.abc_fade_in;
+			global::NotXamarin.Core.Resource.Animation.abc_fade_out = global::App1.Resource.Animation.abc_fade_out;
+			global::NotXamarin.Core.Resource.Animation.abc_grow_fade_in_from_bottom = global::App1.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::NotXamarin.Core.Resource.Animation.abc_popup_enter = global::App1.Resource.Animation.abc_popup_enter;
+			global::NotXamarin.Core.Resource.Animation.abc_popup_exit = global::App1.Resource.Animation.abc_popup_exit;
+			global::NotXamarin.Core.Resource.Animation.abc_shrink_fade_out_from_bottom = global::App1.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::NotXamarin.Core.Resource.Animation.abc_slide_in_bottom = global::App1.Resource.Animation.abc_slide_in_bottom;
+			global::NotXamarin.Core.Resource.Animation.abc_slide_in_top = global::App1.Resource.Animation.abc_slide_in_top;
+			global::NotXamarin.Core.Resource.Animation.abc_slide_out_bottom = global::App1.Resource.Animation.abc_slide_out_bottom;
+			global::NotXamarin.Core.Resource.Animation.abc_slide_out_top = global::App1.Resource.Animation.abc_slide_out_top;
+			global::NotXamarin.Core.Resource.Animation.abc_tooltip_enter = global::App1.Resource.Animation.abc_tooltip_enter;
+			global::NotXamarin.Core.Resource.Animation.abc_tooltip_exit = global::App1.Resource.Animation.abc_tooltip_exit;
+			global::NotXamarin.Core.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::App1.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::App1.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::App1.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::App1.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::App1.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::App1.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::App1.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::App1.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::App1.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::App1.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::App1.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::NotXamarin.Core.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::App1.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::NotXamarin.Core.Resource.Animation.fragment_close_enter = global::App1.Resource.Animation.fragment_close_enter;
+			global::NotXamarin.Core.Resource.Animation.fragment_close_exit = global::App1.Resource.Animation.fragment_close_exit;
+			global::NotXamarin.Core.Resource.Animation.fragment_fade_enter = global::App1.Resource.Animation.fragment_fade_enter;
+			global::NotXamarin.Core.Resource.Animation.fragment_fade_exit = global::App1.Resource.Animation.fragment_fade_exit;
+			global::NotXamarin.Core.Resource.Animation.fragment_fast_out_extra_slow_in = global::App1.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::NotXamarin.Core.Resource.Animation.fragment_open_enter = global::App1.Resource.Animation.fragment_open_enter;
+			global::NotXamarin.Core.Resource.Animation.fragment_open_exit = global::App1.Resource.Animation.fragment_open_exit;
+			global::NotXamarin.Core.Resource.Attribute.actionBarDivider = global::App1.Resource.Attribute.actionBarDivider;
+			global::NotXamarin.Core.Resource.Attribute.actionBarItemBackground = global::App1.Resource.Attribute.actionBarItemBackground;
+			global::NotXamarin.Core.Resource.Attribute.actionBarPopupTheme = global::App1.Resource.Attribute.actionBarPopupTheme;
+			global::NotXamarin.Core.Resource.Attribute.actionBarSize = global::App1.Resource.Attribute.actionBarSize;
+			global::NotXamarin.Core.Resource.Attribute.actionBarSplitStyle = global::App1.Resource.Attribute.actionBarSplitStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionBarStyle = global::App1.Resource.Attribute.actionBarStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionBarTabBarStyle = global::App1.Resource.Attribute.actionBarTabBarStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionBarTabStyle = global::App1.Resource.Attribute.actionBarTabStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionBarTabTextStyle = global::App1.Resource.Attribute.actionBarTabTextStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionBarTheme = global::App1.Resource.Attribute.actionBarTheme;
+			global::NotXamarin.Core.Resource.Attribute.actionBarWidgetTheme = global::App1.Resource.Attribute.actionBarWidgetTheme;
+			global::NotXamarin.Core.Resource.Attribute.actionButtonStyle = global::App1.Resource.Attribute.actionButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionDropDownStyle = global::App1.Resource.Attribute.actionDropDownStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionLayout = global::App1.Resource.Attribute.actionLayout;
+			global::NotXamarin.Core.Resource.Attribute.actionMenuTextAppearance = global::App1.Resource.Attribute.actionMenuTextAppearance;
+			global::NotXamarin.Core.Resource.Attribute.actionMenuTextColor = global::App1.Resource.Attribute.actionMenuTextColor;
+			global::NotXamarin.Core.Resource.Attribute.actionModeBackground = global::App1.Resource.Attribute.actionModeBackground;
+			global::NotXamarin.Core.Resource.Attribute.actionModeCloseButtonStyle = global::App1.Resource.Attribute.actionModeCloseButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionModeCloseDrawable = global::App1.Resource.Attribute.actionModeCloseDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModeCopyDrawable = global::App1.Resource.Attribute.actionModeCopyDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModeCutDrawable = global::App1.Resource.Attribute.actionModeCutDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModeFindDrawable = global::App1.Resource.Attribute.actionModeFindDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModePasteDrawable = global::App1.Resource.Attribute.actionModePasteDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModePopupWindowStyle = global::App1.Resource.Attribute.actionModePopupWindowStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionModeSelectAllDrawable = global::App1.Resource.Attribute.actionModeSelectAllDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModeShareDrawable = global::App1.Resource.Attribute.actionModeShareDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionModeSplitBackground = global::App1.Resource.Attribute.actionModeSplitBackground;
+			global::NotXamarin.Core.Resource.Attribute.actionModeStyle = global::App1.Resource.Attribute.actionModeStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionModeWebSearchDrawable = global::App1.Resource.Attribute.actionModeWebSearchDrawable;
+			global::NotXamarin.Core.Resource.Attribute.actionOverflowButtonStyle = global::App1.Resource.Attribute.actionOverflowButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionOverflowMenuStyle = global::App1.Resource.Attribute.actionOverflowMenuStyle;
+			global::NotXamarin.Core.Resource.Attribute.actionProviderClass = global::App1.Resource.Attribute.actionProviderClass;
+			global::NotXamarin.Core.Resource.Attribute.actionViewClass = global::App1.Resource.Attribute.actionViewClass;
+			global::NotXamarin.Core.Resource.Attribute.activityChooserViewStyle = global::App1.Resource.Attribute.activityChooserViewStyle;
+			global::NotXamarin.Core.Resource.Attribute.alertDialogButtonGroupStyle = global::App1.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::NotXamarin.Core.Resource.Attribute.alertDialogCenterButtons = global::App1.Resource.Attribute.alertDialogCenterButtons;
+			global::NotXamarin.Core.Resource.Attribute.alertDialogStyle = global::App1.Resource.Attribute.alertDialogStyle;
+			global::NotXamarin.Core.Resource.Attribute.alertDialogTheme = global::App1.Resource.Attribute.alertDialogTheme;
+			global::NotXamarin.Core.Resource.Attribute.allowStacking = global::App1.Resource.Attribute.allowStacking;
+			global::NotXamarin.Core.Resource.Attribute.alpha = global::App1.Resource.Attribute.alpha;
+			global::NotXamarin.Core.Resource.Attribute.alphabeticModifiers = global::App1.Resource.Attribute.alphabeticModifiers;
+			global::NotXamarin.Core.Resource.Attribute.arrowHeadLength = global::App1.Resource.Attribute.arrowHeadLength;
+			global::NotXamarin.Core.Resource.Attribute.arrowShaftLength = global::App1.Resource.Attribute.arrowShaftLength;
+			global::NotXamarin.Core.Resource.Attribute.autoCompleteTextViewStyle = global::App1.Resource.Attribute.autoCompleteTextViewStyle;
+			global::NotXamarin.Core.Resource.Attribute.autoSizeMaxTextSize = global::App1.Resource.Attribute.autoSizeMaxTextSize;
+			global::NotXamarin.Core.Resource.Attribute.autoSizeMinTextSize = global::App1.Resource.Attribute.autoSizeMinTextSize;
+			global::NotXamarin.Core.Resource.Attribute.autoSizePresetSizes = global::App1.Resource.Attribute.autoSizePresetSizes;
+			global::NotXamarin.Core.Resource.Attribute.autoSizeStepGranularity = global::App1.Resource.Attribute.autoSizeStepGranularity;
+			global::NotXamarin.Core.Resource.Attribute.autoSizeTextType = global::App1.Resource.Attribute.autoSizeTextType;
+			global::NotXamarin.Core.Resource.Attribute.background = global::App1.Resource.Attribute.background;
+			global::NotXamarin.Core.Resource.Attribute.backgroundSplit = global::App1.Resource.Attribute.backgroundSplit;
+			global::NotXamarin.Core.Resource.Attribute.backgroundStacked = global::App1.Resource.Attribute.backgroundStacked;
+			global::NotXamarin.Core.Resource.Attribute.backgroundTint = global::App1.Resource.Attribute.backgroundTint;
+			global::NotXamarin.Core.Resource.Attribute.backgroundTintMode = global::App1.Resource.Attribute.backgroundTintMode;
+			global::NotXamarin.Core.Resource.Attribute.barLength = global::App1.Resource.Attribute.barLength;
+			global::NotXamarin.Core.Resource.Attribute.borderlessButtonStyle = global::App1.Resource.Attribute.borderlessButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonBarButtonStyle = global::App1.Resource.Attribute.buttonBarButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonBarNegativeButtonStyle = global::App1.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonBarNeutralButtonStyle = global::App1.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonBarPositiveButtonStyle = global::App1.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonBarStyle = global::App1.Resource.Attribute.buttonBarStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonCompat = global::App1.Resource.Attribute.buttonCompat;
+			global::NotXamarin.Core.Resource.Attribute.buttonGravity = global::App1.Resource.Attribute.buttonGravity;
+			global::NotXamarin.Core.Resource.Attribute.buttonIconDimen = global::App1.Resource.Attribute.buttonIconDimen;
+			global::NotXamarin.Core.Resource.Attribute.buttonPanelSideLayout = global::App1.Resource.Attribute.buttonPanelSideLayout;
+			global::NotXamarin.Core.Resource.Attribute.buttonStyle = global::App1.Resource.Attribute.buttonStyle;
+			global::NotXamarin.Core.Resource.Attribute.buttonStyleSmall = global::App1.Resource.Attribute.buttonStyleSmall;
+			global::NotXamarin.Core.Resource.Attribute.buttonTint = global::App1.Resource.Attribute.buttonTint;
+			global::NotXamarin.Core.Resource.Attribute.buttonTintMode = global::App1.Resource.Attribute.buttonTintMode;
+			global::NotXamarin.Core.Resource.Attribute.checkboxStyle = global::App1.Resource.Attribute.checkboxStyle;
+			global::NotXamarin.Core.Resource.Attribute.checkedTextViewStyle = global::App1.Resource.Attribute.checkedTextViewStyle;
+			global::NotXamarin.Core.Resource.Attribute.closeIcon = global::App1.Resource.Attribute.closeIcon;
+			global::NotXamarin.Core.Resource.Attribute.closeItemLayout = global::App1.Resource.Attribute.closeItemLayout;
+			global::NotXamarin.Core.Resource.Attribute.collapseContentDescription = global::App1.Resource.Attribute.collapseContentDescription;
+			global::NotXamarin.Core.Resource.Attribute.collapseIcon = global::App1.Resource.Attribute.collapseIcon;
+			global::NotXamarin.Core.Resource.Attribute.color = global::App1.Resource.Attribute.color;
+			global::NotXamarin.Core.Resource.Attribute.colorAccent = global::App1.Resource.Attribute.colorAccent;
+			global::NotXamarin.Core.Resource.Attribute.colorBackgroundFloating = global::App1.Resource.Attribute.colorBackgroundFloating;
+			global::NotXamarin.Core.Resource.Attribute.colorButtonNormal = global::App1.Resource.Attribute.colorButtonNormal;
+			global::NotXamarin.Core.Resource.Attribute.colorControlActivated = global::App1.Resource.Attribute.colorControlActivated;
+			global::NotXamarin.Core.Resource.Attribute.colorControlHighlight = global::App1.Resource.Attribute.colorControlHighlight;
+			global::NotXamarin.Core.Resource.Attribute.colorControlNormal = global::App1.Resource.Attribute.colorControlNormal;
+			global::NotXamarin.Core.Resource.Attribute.colorError = global::App1.Resource.Attribute.colorError;
+			global::NotXamarin.Core.Resource.Attribute.colorPrimary = global::App1.Resource.Attribute.colorPrimary;
+			global::NotXamarin.Core.Resource.Attribute.colorPrimaryDark = global::App1.Resource.Attribute.colorPrimaryDark;
+			global::NotXamarin.Core.Resource.Attribute.colorSwitchThumbNormal = global::App1.Resource.Attribute.colorSwitchThumbNormal;
+			global::NotXamarin.Core.Resource.Attribute.commitIcon = global::App1.Resource.Attribute.commitIcon;
+			global::NotXamarin.Core.Resource.Attribute.contentDescription = global::App1.Resource.Attribute.contentDescription;
+			global::NotXamarin.Core.Resource.Attribute.contentInsetEnd = global::App1.Resource.Attribute.contentInsetEnd;
+			global::NotXamarin.Core.Resource.Attribute.contentInsetEndWithActions = global::App1.Resource.Attribute.contentInsetEndWithActions;
+			global::NotXamarin.Core.Resource.Attribute.contentInsetLeft = global::App1.Resource.Attribute.contentInsetLeft;
+			global::NotXamarin.Core.Resource.Attribute.contentInsetRight = global::App1.Resource.Attribute.contentInsetRight;
+			global::NotXamarin.Core.Resource.Attribute.contentInsetStart = global::App1.Resource.Attribute.contentInsetStart;
+			global::NotXamarin.Core.Resource.Attribute.contentInsetStartWithNavigation = global::App1.Resource.Attribute.contentInsetStartWithNavigation;
+			global::NotXamarin.Core.Resource.Attribute.controlBackground = global::App1.Resource.Attribute.controlBackground;
+			global::NotXamarin.Core.Resource.Attribute.customNavigationLayout = global::App1.Resource.Attribute.customNavigationLayout;
+			global::NotXamarin.Core.Resource.Attribute.defaultQueryHint = global::App1.Resource.Attribute.defaultQueryHint;
+			global::NotXamarin.Core.Resource.Attribute.dialogCornerRadius = global::App1.Resource.Attribute.dialogCornerRadius;
+			global::NotXamarin.Core.Resource.Attribute.dialogPreferredPadding = global::App1.Resource.Attribute.dialogPreferredPadding;
+			global::NotXamarin.Core.Resource.Attribute.dialogTheme = global::App1.Resource.Attribute.dialogTheme;
+			global::NotXamarin.Core.Resource.Attribute.displayOptions = global::App1.Resource.Attribute.displayOptions;
+			global::NotXamarin.Core.Resource.Attribute.divider = global::App1.Resource.Attribute.divider;
+			global::NotXamarin.Core.Resource.Attribute.dividerHorizontal = global::App1.Resource.Attribute.dividerHorizontal;
+			global::NotXamarin.Core.Resource.Attribute.dividerPadding = global::App1.Resource.Attribute.dividerPadding;
+			global::NotXamarin.Core.Resource.Attribute.dividerVertical = global::App1.Resource.Attribute.dividerVertical;
+			global::NotXamarin.Core.Resource.Attribute.drawableBottomCompat = global::App1.Resource.Attribute.drawableBottomCompat;
+			global::NotXamarin.Core.Resource.Attribute.drawableEndCompat = global::App1.Resource.Attribute.drawableEndCompat;
+			global::NotXamarin.Core.Resource.Attribute.drawableLeftCompat = global::App1.Resource.Attribute.drawableLeftCompat;
+			global::NotXamarin.Core.Resource.Attribute.drawableRightCompat = global::App1.Resource.Attribute.drawableRightCompat;
+			global::NotXamarin.Core.Resource.Attribute.drawableSize = global::App1.Resource.Attribute.drawableSize;
+			global::NotXamarin.Core.Resource.Attribute.drawableStartCompat = global::App1.Resource.Attribute.drawableStartCompat;
+			global::NotXamarin.Core.Resource.Attribute.drawableTint = global::App1.Resource.Attribute.drawableTint;
+			global::NotXamarin.Core.Resource.Attribute.drawableTintMode = global::App1.Resource.Attribute.drawableTintMode;
+			global::NotXamarin.Core.Resource.Attribute.drawableTopCompat = global::App1.Resource.Attribute.drawableTopCompat;
+			global::NotXamarin.Core.Resource.Attribute.drawerArrowStyle = global::App1.Resource.Attribute.drawerArrowStyle;
+			global::NotXamarin.Core.Resource.Attribute.drawerLayoutStyle = global::App1.Resource.Attribute.drawerLayoutStyle;
+			global::NotXamarin.Core.Resource.Attribute.dropdownListPreferredItemHeight = global::App1.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::NotXamarin.Core.Resource.Attribute.dropDownListViewStyle = global::App1.Resource.Attribute.dropDownListViewStyle;
+			global::NotXamarin.Core.Resource.Attribute.editTextBackground = global::App1.Resource.Attribute.editTextBackground;
+			global::NotXamarin.Core.Resource.Attribute.editTextColor = global::App1.Resource.Attribute.editTextColor;
+			global::NotXamarin.Core.Resource.Attribute.editTextStyle = global::App1.Resource.Attribute.editTextStyle;
+			global::NotXamarin.Core.Resource.Attribute.elevation = global::App1.Resource.Attribute.elevation;
+			global::NotXamarin.Core.Resource.Attribute.expandActivityOverflowButtonDrawable = global::App1.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::NotXamarin.Core.Resource.Attribute.firstBaselineToTopHeight = global::App1.Resource.Attribute.firstBaselineToTopHeight;
+			global::NotXamarin.Core.Resource.Attribute.font = global::App1.Resource.Attribute.font;
+			global::NotXamarin.Core.Resource.Attribute.fontFamily = global::App1.Resource.Attribute.fontFamily;
+			global::NotXamarin.Core.Resource.Attribute.fontProviderAuthority = global::App1.Resource.Attribute.fontProviderAuthority;
+			global::NotXamarin.Core.Resource.Attribute.fontProviderCerts = global::App1.Resource.Attribute.fontProviderCerts;
+			global::NotXamarin.Core.Resource.Attribute.fontProviderFetchStrategy = global::App1.Resource.Attribute.fontProviderFetchStrategy;
+			global::NotXamarin.Core.Resource.Attribute.fontProviderFetchTimeout = global::App1.Resource.Attribute.fontProviderFetchTimeout;
+			global::NotXamarin.Core.Resource.Attribute.fontProviderPackage = global::App1.Resource.Attribute.fontProviderPackage;
+			global::NotXamarin.Core.Resource.Attribute.fontProviderQuery = global::App1.Resource.Attribute.fontProviderQuery;
+			global::NotXamarin.Core.Resource.Attribute.fontStyle = global::App1.Resource.Attribute.fontStyle;
+			global::NotXamarin.Core.Resource.Attribute.fontVariationSettings = global::App1.Resource.Attribute.fontVariationSettings;
+			global::NotXamarin.Core.Resource.Attribute.fontWeight = global::App1.Resource.Attribute.fontWeight;
+			global::NotXamarin.Core.Resource.Attribute.gapBetweenBars = global::App1.Resource.Attribute.gapBetweenBars;
+			global::NotXamarin.Core.Resource.Attribute.goIcon = global::App1.Resource.Attribute.goIcon;
+			global::NotXamarin.Core.Resource.Attribute.height = global::App1.Resource.Attribute.height;
+			global::NotXamarin.Core.Resource.Attribute.hideOnContentScroll = global::App1.Resource.Attribute.hideOnContentScroll;
+			global::NotXamarin.Core.Resource.Attribute.homeAsUpIndicator = global::App1.Resource.Attribute.homeAsUpIndicator;
+			global::NotXamarin.Core.Resource.Attribute.homeLayout = global::App1.Resource.Attribute.homeLayout;
+			global::NotXamarin.Core.Resource.Attribute.icon = global::App1.Resource.Attribute.icon;
+			global::NotXamarin.Core.Resource.Attribute.iconifiedByDefault = global::App1.Resource.Attribute.iconifiedByDefault;
+			global::NotXamarin.Core.Resource.Attribute.iconTint = global::App1.Resource.Attribute.iconTint;
+			global::NotXamarin.Core.Resource.Attribute.iconTintMode = global::App1.Resource.Attribute.iconTintMode;
+			global::NotXamarin.Core.Resource.Attribute.imageButtonStyle = global::App1.Resource.Attribute.imageButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.indeterminateProgressStyle = global::App1.Resource.Attribute.indeterminateProgressStyle;
+			global::NotXamarin.Core.Resource.Attribute.initialActivityCount = global::App1.Resource.Attribute.initialActivityCount;
+			global::NotXamarin.Core.Resource.Attribute.isLightTheme = global::App1.Resource.Attribute.isLightTheme;
+			global::NotXamarin.Core.Resource.Attribute.itemPadding = global::App1.Resource.Attribute.itemPadding;
+			global::NotXamarin.Core.Resource.Attribute.lastBaselineToBottomHeight = global::App1.Resource.Attribute.lastBaselineToBottomHeight;
+			global::NotXamarin.Core.Resource.Attribute.layout = global::App1.Resource.Attribute.layout;
+			global::NotXamarin.Core.Resource.Attribute.lineHeight = global::App1.Resource.Attribute.lineHeight;
+			global::NotXamarin.Core.Resource.Attribute.listChoiceBackgroundIndicator = global::App1.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::NotXamarin.Core.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::App1.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::NotXamarin.Core.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::App1.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::NotXamarin.Core.Resource.Attribute.listDividerAlertDialog = global::App1.Resource.Attribute.listDividerAlertDialog;
+			global::NotXamarin.Core.Resource.Attribute.listItemLayout = global::App1.Resource.Attribute.listItemLayout;
+			global::NotXamarin.Core.Resource.Attribute.listLayout = global::App1.Resource.Attribute.listLayout;
+			global::NotXamarin.Core.Resource.Attribute.listMenuViewStyle = global::App1.Resource.Attribute.listMenuViewStyle;
+			global::NotXamarin.Core.Resource.Attribute.listPopupWindowStyle = global::App1.Resource.Attribute.listPopupWindowStyle;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemHeight = global::App1.Resource.Attribute.listPreferredItemHeight;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemHeightLarge = global::App1.Resource.Attribute.listPreferredItemHeightLarge;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemHeightSmall = global::App1.Resource.Attribute.listPreferredItemHeightSmall;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemPaddingEnd = global::App1.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemPaddingLeft = global::App1.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemPaddingRight = global::App1.Resource.Attribute.listPreferredItemPaddingRight;
+			global::NotXamarin.Core.Resource.Attribute.listPreferredItemPaddingStart = global::App1.Resource.Attribute.listPreferredItemPaddingStart;
+			global::NotXamarin.Core.Resource.Attribute.logo = global::App1.Resource.Attribute.logo;
+			global::NotXamarin.Core.Resource.Attribute.logoDescription = global::App1.Resource.Attribute.logoDescription;
+			global::NotXamarin.Core.Resource.Attribute.maxButtonHeight = global::App1.Resource.Attribute.maxButtonHeight;
+			global::NotXamarin.Core.Resource.Attribute.measureWithLargestChild = global::App1.Resource.Attribute.measureWithLargestChild;
+			global::NotXamarin.Core.Resource.Attribute.menu = global::App1.Resource.Attribute.menu;
+			global::NotXamarin.Core.Resource.Attribute.multiChoiceItemLayout = global::App1.Resource.Attribute.multiChoiceItemLayout;
+			global::NotXamarin.Core.Resource.Attribute.navigationContentDescription = global::App1.Resource.Attribute.navigationContentDescription;
+			global::NotXamarin.Core.Resource.Attribute.navigationIcon = global::App1.Resource.Attribute.navigationIcon;
+			global::NotXamarin.Core.Resource.Attribute.navigationMode = global::App1.Resource.Attribute.navigationMode;
+			global::NotXamarin.Core.Resource.Attribute.numericModifiers = global::App1.Resource.Attribute.numericModifiers;
+			global::NotXamarin.Core.Resource.Attribute.overlapAnchor = global::App1.Resource.Attribute.overlapAnchor;
+			global::NotXamarin.Core.Resource.Attribute.paddingBottomNoButtons = global::App1.Resource.Attribute.paddingBottomNoButtons;
+			global::NotXamarin.Core.Resource.Attribute.paddingEnd = global::App1.Resource.Attribute.paddingEnd;
+			global::NotXamarin.Core.Resource.Attribute.paddingStart = global::App1.Resource.Attribute.paddingStart;
+			global::NotXamarin.Core.Resource.Attribute.paddingTopNoTitle = global::App1.Resource.Attribute.paddingTopNoTitle;
+			global::NotXamarin.Core.Resource.Attribute.panelBackground = global::App1.Resource.Attribute.panelBackground;
+			global::NotXamarin.Core.Resource.Attribute.panelMenuListTheme = global::App1.Resource.Attribute.panelMenuListTheme;
+			global::NotXamarin.Core.Resource.Attribute.panelMenuListWidth = global::App1.Resource.Attribute.panelMenuListWidth;
+			global::NotXamarin.Core.Resource.Attribute.popupMenuStyle = global::App1.Resource.Attribute.popupMenuStyle;
+			global::NotXamarin.Core.Resource.Attribute.popupTheme = global::App1.Resource.Attribute.popupTheme;
+			global::NotXamarin.Core.Resource.Attribute.popupWindowStyle = global::App1.Resource.Attribute.popupWindowStyle;
+			global::NotXamarin.Core.Resource.Attribute.preserveIconSpacing = global::App1.Resource.Attribute.preserveIconSpacing;
+			global::NotXamarin.Core.Resource.Attribute.progressBarPadding = global::App1.Resource.Attribute.progressBarPadding;
+			global::NotXamarin.Core.Resource.Attribute.progressBarStyle = global::App1.Resource.Attribute.progressBarStyle;
+			global::NotXamarin.Core.Resource.Attribute.queryBackground = global::App1.Resource.Attribute.queryBackground;
+			global::NotXamarin.Core.Resource.Attribute.queryHint = global::App1.Resource.Attribute.queryHint;
+			global::NotXamarin.Core.Resource.Attribute.radioButtonStyle = global::App1.Resource.Attribute.radioButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.ratingBarStyle = global::App1.Resource.Attribute.ratingBarStyle;
+			global::NotXamarin.Core.Resource.Attribute.ratingBarStyleIndicator = global::App1.Resource.Attribute.ratingBarStyleIndicator;
+			global::NotXamarin.Core.Resource.Attribute.ratingBarStyleSmall = global::App1.Resource.Attribute.ratingBarStyleSmall;
+			global::NotXamarin.Core.Resource.Attribute.searchHintIcon = global::App1.Resource.Attribute.searchHintIcon;
+			global::NotXamarin.Core.Resource.Attribute.searchIcon = global::App1.Resource.Attribute.searchIcon;
+			global::NotXamarin.Core.Resource.Attribute.searchViewStyle = global::App1.Resource.Attribute.searchViewStyle;
+			global::NotXamarin.Core.Resource.Attribute.seekBarStyle = global::App1.Resource.Attribute.seekBarStyle;
+			global::NotXamarin.Core.Resource.Attribute.selectableItemBackground = global::App1.Resource.Attribute.selectableItemBackground;
+			global::NotXamarin.Core.Resource.Attribute.selectableItemBackgroundBorderless = global::App1.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::NotXamarin.Core.Resource.Attribute.showAsAction = global::App1.Resource.Attribute.showAsAction;
+			global::NotXamarin.Core.Resource.Attribute.showDividers = global::App1.Resource.Attribute.showDividers;
+			global::NotXamarin.Core.Resource.Attribute.showText = global::App1.Resource.Attribute.showText;
+			global::NotXamarin.Core.Resource.Attribute.showTitle = global::App1.Resource.Attribute.showTitle;
+			global::NotXamarin.Core.Resource.Attribute.singleChoiceItemLayout = global::App1.Resource.Attribute.singleChoiceItemLayout;
+			global::NotXamarin.Core.Resource.Attribute.spinBars = global::App1.Resource.Attribute.spinBars;
+			global::NotXamarin.Core.Resource.Attribute.spinnerDropDownItemStyle = global::App1.Resource.Attribute.spinnerDropDownItemStyle;
+			global::NotXamarin.Core.Resource.Attribute.spinnerStyle = global::App1.Resource.Attribute.spinnerStyle;
+			global::NotXamarin.Core.Resource.Attribute.splitTrack = global::App1.Resource.Attribute.splitTrack;
+			global::NotXamarin.Core.Resource.Attribute.srcCompat = global::App1.Resource.Attribute.srcCompat;
+			global::NotXamarin.Core.Resource.Attribute.state_above_anchor = global::App1.Resource.Attribute.state_above_anchor;
+			global::NotXamarin.Core.Resource.Attribute.subMenuArrow = global::App1.Resource.Attribute.subMenuArrow;
+			global::NotXamarin.Core.Resource.Attribute.submitBackground = global::App1.Resource.Attribute.submitBackground;
+			global::NotXamarin.Core.Resource.Attribute.subtitle = global::App1.Resource.Attribute.subtitle;
+			global::NotXamarin.Core.Resource.Attribute.subtitleTextAppearance = global::App1.Resource.Attribute.subtitleTextAppearance;
+			global::NotXamarin.Core.Resource.Attribute.subtitleTextColor = global::App1.Resource.Attribute.subtitleTextColor;
+			global::NotXamarin.Core.Resource.Attribute.subtitleTextStyle = global::App1.Resource.Attribute.subtitleTextStyle;
+			global::NotXamarin.Core.Resource.Attribute.suggestionRowLayout = global::App1.Resource.Attribute.suggestionRowLayout;
+			global::NotXamarin.Core.Resource.Attribute.switchMinWidth = global::App1.Resource.Attribute.switchMinWidth;
+			global::NotXamarin.Core.Resource.Attribute.switchPadding = global::App1.Resource.Attribute.switchPadding;
+			global::NotXamarin.Core.Resource.Attribute.switchStyle = global::App1.Resource.Attribute.switchStyle;
+			global::NotXamarin.Core.Resource.Attribute.switchTextAppearance = global::App1.Resource.Attribute.switchTextAppearance;
+			global::NotXamarin.Core.Resource.Attribute.textAllCaps = global::App1.Resource.Attribute.textAllCaps;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceLargePopupMenu = global::App1.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceListItem = global::App1.Resource.Attribute.textAppearanceListItem;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceListItemSecondary = global::App1.Resource.Attribute.textAppearanceListItemSecondary;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceListItemSmall = global::App1.Resource.Attribute.textAppearanceListItemSmall;
+			global::NotXamarin.Core.Resource.Attribute.textAppearancePopupMenuHeader = global::App1.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceSearchResultSubtitle = global::App1.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceSearchResultTitle = global::App1.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::NotXamarin.Core.Resource.Attribute.textAppearanceSmallPopupMenu = global::App1.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::NotXamarin.Core.Resource.Attribute.textColorAlertDialogListItem = global::App1.Resource.Attribute.textColorAlertDialogListItem;
+			global::NotXamarin.Core.Resource.Attribute.textColorSearchUrl = global::App1.Resource.Attribute.textColorSearchUrl;
+			global::NotXamarin.Core.Resource.Attribute.textLocale = global::App1.Resource.Attribute.textLocale;
+			global::NotXamarin.Core.Resource.Attribute.theme = global::App1.Resource.Attribute.theme;
+			global::NotXamarin.Core.Resource.Attribute.thickness = global::App1.Resource.Attribute.thickness;
+			global::NotXamarin.Core.Resource.Attribute.thumbTextPadding = global::App1.Resource.Attribute.thumbTextPadding;
+			global::NotXamarin.Core.Resource.Attribute.thumbTint = global::App1.Resource.Attribute.thumbTint;
+			global::NotXamarin.Core.Resource.Attribute.thumbTintMode = global::App1.Resource.Attribute.thumbTintMode;
+			global::NotXamarin.Core.Resource.Attribute.tickMark = global::App1.Resource.Attribute.tickMark;
+			global::NotXamarin.Core.Resource.Attribute.tickMarkTint = global::App1.Resource.Attribute.tickMarkTint;
+			global::NotXamarin.Core.Resource.Attribute.tickMarkTintMode = global::App1.Resource.Attribute.tickMarkTintMode;
+			global::NotXamarin.Core.Resource.Attribute.tint = global::App1.Resource.Attribute.tint;
+			global::NotXamarin.Core.Resource.Attribute.tintMode = global::App1.Resource.Attribute.tintMode;
+			global::NotXamarin.Core.Resource.Attribute.title = global::App1.Resource.Attribute.title;
+			global::NotXamarin.Core.Resource.Attribute.titleMargin = global::App1.Resource.Attribute.titleMargin;
+			global::NotXamarin.Core.Resource.Attribute.titleMarginBottom = global::App1.Resource.Attribute.titleMarginBottom;
+			global::NotXamarin.Core.Resource.Attribute.titleMarginEnd = global::App1.Resource.Attribute.titleMarginEnd;
+			global::NotXamarin.Core.Resource.Attribute.titleMargins = global::App1.Resource.Attribute.titleMargins;
+			global::NotXamarin.Core.Resource.Attribute.titleMarginStart = global::App1.Resource.Attribute.titleMarginStart;
+			global::NotXamarin.Core.Resource.Attribute.titleMarginTop = global::App1.Resource.Attribute.titleMarginTop;
+			global::NotXamarin.Core.Resource.Attribute.titleTextAppearance = global::App1.Resource.Attribute.titleTextAppearance;
+			global::NotXamarin.Core.Resource.Attribute.titleTextColor = global::App1.Resource.Attribute.titleTextColor;
+			global::NotXamarin.Core.Resource.Attribute.titleTextStyle = global::App1.Resource.Attribute.titleTextStyle;
+			global::NotXamarin.Core.Resource.Attribute.toolbarNavigationButtonStyle = global::App1.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::NotXamarin.Core.Resource.Attribute.toolbarStyle = global::App1.Resource.Attribute.toolbarStyle;
+			global::NotXamarin.Core.Resource.Attribute.tooltipForegroundColor = global::App1.Resource.Attribute.tooltipForegroundColor;
+			global::NotXamarin.Core.Resource.Attribute.tooltipFrameBackground = global::App1.Resource.Attribute.tooltipFrameBackground;
+			global::NotXamarin.Core.Resource.Attribute.tooltipText = global::App1.Resource.Attribute.tooltipText;
+			global::NotXamarin.Core.Resource.Attribute.track = global::App1.Resource.Attribute.track;
+			global::NotXamarin.Core.Resource.Attribute.trackTint = global::App1.Resource.Attribute.trackTint;
+			global::NotXamarin.Core.Resource.Attribute.trackTintMode = global::App1.Resource.Attribute.trackTintMode;
+			global::NotXamarin.Core.Resource.Attribute.ttcIndex = global::App1.Resource.Attribute.ttcIndex;
+			global::NotXamarin.Core.Resource.Attribute.viewInflaterClass = global::App1.Resource.Attribute.viewInflaterClass;
+			global::NotXamarin.Core.Resource.Attribute.voiceIcon = global::App1.Resource.Attribute.voiceIcon;
+			global::NotXamarin.Core.Resource.Attribute.windowActionBar = global::App1.Resource.Attribute.windowActionBar;
+			global::NotXamarin.Core.Resource.Attribute.windowActionBarOverlay = global::App1.Resource.Attribute.windowActionBarOverlay;
+			global::NotXamarin.Core.Resource.Attribute.windowActionModeOverlay = global::App1.Resource.Attribute.windowActionModeOverlay;
+			global::NotXamarin.Core.Resource.Attribute.windowFixedHeightMajor = global::App1.Resource.Attribute.windowFixedHeightMajor;
+			global::NotXamarin.Core.Resource.Attribute.windowFixedHeightMinor = global::App1.Resource.Attribute.windowFixedHeightMinor;
+			global::NotXamarin.Core.Resource.Attribute.windowFixedWidthMajor = global::App1.Resource.Attribute.windowFixedWidthMajor;
+			global::NotXamarin.Core.Resource.Attribute.windowFixedWidthMinor = global::App1.Resource.Attribute.windowFixedWidthMinor;
+			global::NotXamarin.Core.Resource.Attribute.windowMinWidthMajor = global::App1.Resource.Attribute.windowMinWidthMajor;
+			global::NotXamarin.Core.Resource.Attribute.windowMinWidthMinor = global::App1.Resource.Attribute.windowMinWidthMinor;
+			global::NotXamarin.Core.Resource.Attribute.windowNoTitle = global::App1.Resource.Attribute.windowNoTitle;
+			global::NotXamarin.Core.Resource.Boolean.abc_action_bar_embed_tabs = global::App1.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::NotXamarin.Core.Resource.Boolean.abc_allow_stacked_button_bar = global::App1.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::NotXamarin.Core.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::App1.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::NotXamarin.Core.Resource.Color.abc_background_cache_hint_selector_material_dark = global::App1.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::NotXamarin.Core.Resource.Color.abc_background_cache_hint_selector_material_light = global::App1.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::NotXamarin.Core.Resource.Color.abc_btn_colored_borderless_text_material = global::App1.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::NotXamarin.Core.Resource.Color.abc_btn_colored_text_material = global::App1.Resource.Color.abc_btn_colored_text_material;
+			global::NotXamarin.Core.Resource.Color.abc_color_highlight_material = global::App1.Resource.Color.abc_color_highlight_material;
+			global::NotXamarin.Core.Resource.Color.abc_decor_view_status_guard = global::App1.Resource.Color.abc_decor_view_status_guard;
+			global::NotXamarin.Core.Resource.Color.abc_decor_view_status_guard_light = global::App1.Resource.Color.abc_decor_view_status_guard_light;
+			global::NotXamarin.Core.Resource.Color.abc_hint_foreground_material_dark = global::App1.Resource.Color.abc_hint_foreground_material_dark;
+			global::NotXamarin.Core.Resource.Color.abc_hint_foreground_material_light = global::App1.Resource.Color.abc_hint_foreground_material_light;
+			global::NotXamarin.Core.Resource.Color.abc_primary_text_disable_only_material_dark = global::App1.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::NotXamarin.Core.Resource.Color.abc_primary_text_disable_only_material_light = global::App1.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::NotXamarin.Core.Resource.Color.abc_primary_text_material_dark = global::App1.Resource.Color.abc_primary_text_material_dark;
+			global::NotXamarin.Core.Resource.Color.abc_primary_text_material_light = global::App1.Resource.Color.abc_primary_text_material_light;
+			global::NotXamarin.Core.Resource.Color.abc_search_url_text = global::App1.Resource.Color.abc_search_url_text;
+			global::NotXamarin.Core.Resource.Color.abc_search_url_text_normal = global::App1.Resource.Color.abc_search_url_text_normal;
+			global::NotXamarin.Core.Resource.Color.abc_search_url_text_pressed = global::App1.Resource.Color.abc_search_url_text_pressed;
+			global::NotXamarin.Core.Resource.Color.abc_search_url_text_selected = global::App1.Resource.Color.abc_search_url_text_selected;
+			global::NotXamarin.Core.Resource.Color.abc_secondary_text_material_dark = global::App1.Resource.Color.abc_secondary_text_material_dark;
+			global::NotXamarin.Core.Resource.Color.abc_secondary_text_material_light = global::App1.Resource.Color.abc_secondary_text_material_light;
+			global::NotXamarin.Core.Resource.Color.abc_tint_btn_checkable = global::App1.Resource.Color.abc_tint_btn_checkable;
+			global::NotXamarin.Core.Resource.Color.abc_tint_default = global::App1.Resource.Color.abc_tint_default;
+			global::NotXamarin.Core.Resource.Color.abc_tint_edittext = global::App1.Resource.Color.abc_tint_edittext;
+			global::NotXamarin.Core.Resource.Color.abc_tint_seek_thumb = global::App1.Resource.Color.abc_tint_seek_thumb;
+			global::NotXamarin.Core.Resource.Color.abc_tint_spinner = global::App1.Resource.Color.abc_tint_spinner;
+			global::NotXamarin.Core.Resource.Color.abc_tint_switch_track = global::App1.Resource.Color.abc_tint_switch_track;
+			global::NotXamarin.Core.Resource.Color.accent_material_dark = global::App1.Resource.Color.accent_material_dark;
+			global::NotXamarin.Core.Resource.Color.accent_material_light = global::App1.Resource.Color.accent_material_light;
+			global::NotXamarin.Core.Resource.Color.androidx_core_ripple_material_light = global::App1.Resource.Color.androidx_core_ripple_material_light;
+			global::NotXamarin.Core.Resource.Color.androidx_core_secondary_text_default_material_light = global::App1.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::NotXamarin.Core.Resource.Color.background_floating_material_dark = global::App1.Resource.Color.background_floating_material_dark;
+			global::NotXamarin.Core.Resource.Color.background_floating_material_light = global::App1.Resource.Color.background_floating_material_light;
+			global::NotXamarin.Core.Resource.Color.background_material_dark = global::App1.Resource.Color.background_material_dark;
+			global::NotXamarin.Core.Resource.Color.background_material_light = global::App1.Resource.Color.background_material_light;
+			global::NotXamarin.Core.Resource.Color.bright_foreground_disabled_material_dark = global::App1.Resource.Color.bright_foreground_disabled_material_dark;
+			global::NotXamarin.Core.Resource.Color.bright_foreground_disabled_material_light = global::App1.Resource.Color.bright_foreground_disabled_material_light;
+			global::NotXamarin.Core.Resource.Color.bright_foreground_inverse_material_dark = global::App1.Resource.Color.bright_foreground_inverse_material_dark;
+			global::NotXamarin.Core.Resource.Color.bright_foreground_inverse_material_light = global::App1.Resource.Color.bright_foreground_inverse_material_light;
+			global::NotXamarin.Core.Resource.Color.bright_foreground_material_dark = global::App1.Resource.Color.bright_foreground_material_dark;
+			global::NotXamarin.Core.Resource.Color.bright_foreground_material_light = global::App1.Resource.Color.bright_foreground_material_light;
+			global::NotXamarin.Core.Resource.Color.button_material_dark = global::App1.Resource.Color.button_material_dark;
+			global::NotXamarin.Core.Resource.Color.button_material_light = global::App1.Resource.Color.button_material_light;
+			global::NotXamarin.Core.Resource.Color.dim_foreground_disabled_material_dark = global::App1.Resource.Color.dim_foreground_disabled_material_dark;
+			global::NotXamarin.Core.Resource.Color.dim_foreground_disabled_material_light = global::App1.Resource.Color.dim_foreground_disabled_material_light;
+			global::NotXamarin.Core.Resource.Color.dim_foreground_material_dark = global::App1.Resource.Color.dim_foreground_material_dark;
+			global::NotXamarin.Core.Resource.Color.dim_foreground_material_light = global::App1.Resource.Color.dim_foreground_material_light;
+			global::NotXamarin.Core.Resource.Color.error_color_material_dark = global::App1.Resource.Color.error_color_material_dark;
+			global::NotXamarin.Core.Resource.Color.error_color_material_light = global::App1.Resource.Color.error_color_material_light;
+			global::NotXamarin.Core.Resource.Color.foreground_material_dark = global::App1.Resource.Color.foreground_material_dark;
+			global::NotXamarin.Core.Resource.Color.foreground_material_light = global::App1.Resource.Color.foreground_material_light;
+			global::NotXamarin.Core.Resource.Color.highlighted_text_material_dark = global::App1.Resource.Color.highlighted_text_material_dark;
+			global::NotXamarin.Core.Resource.Color.highlighted_text_material_light = global::App1.Resource.Color.highlighted_text_material_light;
+			global::NotXamarin.Core.Resource.Color.material_blue_grey_800 = global::App1.Resource.Color.material_blue_grey_800;
+			global::NotXamarin.Core.Resource.Color.material_blue_grey_900 = global::App1.Resource.Color.material_blue_grey_900;
+			global::NotXamarin.Core.Resource.Color.material_blue_grey_950 = global::App1.Resource.Color.material_blue_grey_950;
+			global::NotXamarin.Core.Resource.Color.material_deep_teal_200 = global::App1.Resource.Color.material_deep_teal_200;
+			global::NotXamarin.Core.Resource.Color.material_deep_teal_500 = global::App1.Resource.Color.material_deep_teal_500;
+			global::NotXamarin.Core.Resource.Color.material_grey_100 = global::App1.Resource.Color.material_grey_100;
+			global::NotXamarin.Core.Resource.Color.material_grey_300 = global::App1.Resource.Color.material_grey_300;
+			global::NotXamarin.Core.Resource.Color.material_grey_50 = global::App1.Resource.Color.material_grey_50;
+			global::NotXamarin.Core.Resource.Color.material_grey_600 = global::App1.Resource.Color.material_grey_600;
+			global::NotXamarin.Core.Resource.Color.material_grey_800 = global::App1.Resource.Color.material_grey_800;
+			global::NotXamarin.Core.Resource.Color.material_grey_850 = global::App1.Resource.Color.material_grey_850;
+			global::NotXamarin.Core.Resource.Color.material_grey_900 = global::App1.Resource.Color.material_grey_900;
+			global::NotXamarin.Core.Resource.Color.notification_action_color_filter = global::App1.Resource.Color.notification_action_color_filter;
+			global::NotXamarin.Core.Resource.Color.notification_icon_bg_color = global::App1.Resource.Color.notification_icon_bg_color;
+			global::NotXamarin.Core.Resource.Color.primary_dark_material_dark = global::App1.Resource.Color.primary_dark_material_dark;
+			global::NotXamarin.Core.Resource.Color.primary_dark_material_light = global::App1.Resource.Color.primary_dark_material_light;
+			global::NotXamarin.Core.Resource.Color.primary_material_dark = global::App1.Resource.Color.primary_material_dark;
+			global::NotXamarin.Core.Resource.Color.primary_material_light = global::App1.Resource.Color.primary_material_light;
+			global::NotXamarin.Core.Resource.Color.primary_text_default_material_dark = global::App1.Resource.Color.primary_text_default_material_dark;
+			global::NotXamarin.Core.Resource.Color.primary_text_default_material_light = global::App1.Resource.Color.primary_text_default_material_light;
+			global::NotXamarin.Core.Resource.Color.primary_text_disabled_material_dark = global::App1.Resource.Color.primary_text_disabled_material_dark;
+			global::NotXamarin.Core.Resource.Color.primary_text_disabled_material_light = global::App1.Resource.Color.primary_text_disabled_material_light;
+			global::NotXamarin.Core.Resource.Color.ripple_material_dark = global::App1.Resource.Color.ripple_material_dark;
+			global::NotXamarin.Core.Resource.Color.ripple_material_light = global::App1.Resource.Color.ripple_material_light;
+			global::NotXamarin.Core.Resource.Color.secondary_text_default_material_dark = global::App1.Resource.Color.secondary_text_default_material_dark;
+			global::NotXamarin.Core.Resource.Color.secondary_text_default_material_light = global::App1.Resource.Color.secondary_text_default_material_light;
+			global::NotXamarin.Core.Resource.Color.secondary_text_disabled_material_dark = global::App1.Resource.Color.secondary_text_disabled_material_dark;
+			global::NotXamarin.Core.Resource.Color.secondary_text_disabled_material_light = global::App1.Resource.Color.secondary_text_disabled_material_light;
+			global::NotXamarin.Core.Resource.Color.switch_thumb_disabled_material_dark = global::App1.Resource.Color.switch_thumb_disabled_material_dark;
+			global::NotXamarin.Core.Resource.Color.switch_thumb_disabled_material_light = global::App1.Resource.Color.switch_thumb_disabled_material_light;
+			global::NotXamarin.Core.Resource.Color.switch_thumb_material_dark = global::App1.Resource.Color.switch_thumb_material_dark;
+			global::NotXamarin.Core.Resource.Color.switch_thumb_material_light = global::App1.Resource.Color.switch_thumb_material_light;
+			global::NotXamarin.Core.Resource.Color.switch_thumb_normal_material_dark = global::App1.Resource.Color.switch_thumb_normal_material_dark;
+			global::NotXamarin.Core.Resource.Color.switch_thumb_normal_material_light = global::App1.Resource.Color.switch_thumb_normal_material_light;
+			global::NotXamarin.Core.Resource.Color.tooltip_background_dark = global::App1.Resource.Color.tooltip_background_dark;
+			global::NotXamarin.Core.Resource.Color.tooltip_background_light = global::App1.Resource.Color.tooltip_background_light;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_content_inset_material = global::App1.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::App1.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_default_height_material = global::App1.Resource.Dimension.abc_action_bar_default_height_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_default_padding_end_material = global::App1.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_default_padding_start_material = global::App1.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_elevation_material = global::App1.Resource.Dimension.abc_action_bar_elevation_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::App1.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::App1.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::App1.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_stacked_max_height = global::App1.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::App1.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::App1.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::App1.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_button_min_height_material = global::App1.Resource.Dimension.abc_action_button_min_height_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_button_min_width_material = global::App1.Resource.Dimension.abc_action_button_min_width_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_action_button_min_width_overflow_material = global::App1.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_alert_dialog_button_bar_height = global::App1.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::NotXamarin.Core.Resource.Dimension.abc_alert_dialog_button_dimen = global::App1.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::NotXamarin.Core.Resource.Dimension.abc_button_inset_horizontal_material = global::App1.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_button_inset_vertical_material = global::App1.Resource.Dimension.abc_button_inset_vertical_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_button_padding_horizontal_material = global::App1.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_button_padding_vertical_material = global::App1.Resource.Dimension.abc_button_padding_vertical_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::App1.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::NotXamarin.Core.Resource.Dimension.abc_config_prefDialogWidth = global::App1.Resource.Dimension.abc_config_prefDialogWidth;
+			global::NotXamarin.Core.Resource.Dimension.abc_control_corner_material = global::App1.Resource.Dimension.abc_control_corner_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_control_inset_material = global::App1.Resource.Dimension.abc_control_inset_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_control_padding_material = global::App1.Resource.Dimension.abc_control_padding_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_corner_radius_material = global::App1.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_fixed_height_major = global::App1.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_fixed_height_minor = global::App1.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_fixed_width_major = global::App1.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_fixed_width_minor = global::App1.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::App1.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::App1.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_min_width_major = global::App1.Resource.Dimension.abc_dialog_min_width_major;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_min_width_minor = global::App1.Resource.Dimension.abc_dialog_min_width_minor;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_padding_material = global::App1.Resource.Dimension.abc_dialog_padding_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_padding_top_material = global::App1.Resource.Dimension.abc_dialog_padding_top_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_dialog_title_divider_material = global::App1.Resource.Dimension.abc_dialog_title_divider_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_disabled_alpha_material_dark = global::App1.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::NotXamarin.Core.Resource.Dimension.abc_disabled_alpha_material_light = global::App1.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::NotXamarin.Core.Resource.Dimension.abc_dropdownitem_icon_width = global::App1.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::NotXamarin.Core.Resource.Dimension.abc_dropdownitem_text_padding_left = global::App1.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::NotXamarin.Core.Resource.Dimension.abc_dropdownitem_text_padding_right = global::App1.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::NotXamarin.Core.Resource.Dimension.abc_edit_text_inset_bottom_material = global::App1.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::App1.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_edit_text_inset_top_material = global::App1.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_floating_window_z = global::App1.Resource.Dimension.abc_floating_window_z;
+			global::NotXamarin.Core.Resource.Dimension.abc_list_item_height_large_material = global::App1.Resource.Dimension.abc_list_item_height_large_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_list_item_height_material = global::App1.Resource.Dimension.abc_list_item_height_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_list_item_height_small_material = global::App1.Resource.Dimension.abc_list_item_height_small_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_list_item_padding_horizontal_material = global::App1.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_panel_menu_list_width = global::App1.Resource.Dimension.abc_panel_menu_list_width;
+			global::NotXamarin.Core.Resource.Dimension.abc_progress_bar_height_material = global::App1.Resource.Dimension.abc_progress_bar_height_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_search_view_preferred_height = global::App1.Resource.Dimension.abc_search_view_preferred_height;
+			global::NotXamarin.Core.Resource.Dimension.abc_search_view_preferred_width = global::App1.Resource.Dimension.abc_search_view_preferred_width;
+			global::NotXamarin.Core.Resource.Dimension.abc_seekbar_track_background_height_material = global::App1.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_seekbar_track_progress_height_material = global::App1.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_select_dialog_padding_start_material = global::App1.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_switch_padding = global::App1.Resource.Dimension.abc_switch_padding;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_body_1_material = global::App1.Resource.Dimension.abc_text_size_body_1_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_body_2_material = global::App1.Resource.Dimension.abc_text_size_body_2_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_button_material = global::App1.Resource.Dimension.abc_text_size_button_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_caption_material = global::App1.Resource.Dimension.abc_text_size_caption_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_display_1_material = global::App1.Resource.Dimension.abc_text_size_display_1_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_display_2_material = global::App1.Resource.Dimension.abc_text_size_display_2_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_display_3_material = global::App1.Resource.Dimension.abc_text_size_display_3_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_display_4_material = global::App1.Resource.Dimension.abc_text_size_display_4_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_headline_material = global::App1.Resource.Dimension.abc_text_size_headline_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_large_material = global::App1.Resource.Dimension.abc_text_size_large_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_medium_material = global::App1.Resource.Dimension.abc_text_size_medium_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_menu_header_material = global::App1.Resource.Dimension.abc_text_size_menu_header_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_menu_material = global::App1.Resource.Dimension.abc_text_size_menu_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_small_material = global::App1.Resource.Dimension.abc_text_size_small_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_subhead_material = global::App1.Resource.Dimension.abc_text_size_subhead_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::App1.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_title_material = global::App1.Resource.Dimension.abc_text_size_title_material;
+			global::NotXamarin.Core.Resource.Dimension.abc_text_size_title_material_toolbar = global::App1.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::NotXamarin.Core.Resource.Dimension.compat_button_inset_horizontal_material = global::App1.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::NotXamarin.Core.Resource.Dimension.compat_button_inset_vertical_material = global::App1.Resource.Dimension.compat_button_inset_vertical_material;
+			global::NotXamarin.Core.Resource.Dimension.compat_button_padding_horizontal_material = global::App1.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::NotXamarin.Core.Resource.Dimension.compat_button_padding_vertical_material = global::App1.Resource.Dimension.compat_button_padding_vertical_material;
+			global::NotXamarin.Core.Resource.Dimension.compat_control_corner_material = global::App1.Resource.Dimension.compat_control_corner_material;
+			global::NotXamarin.Core.Resource.Dimension.compat_notification_large_icon_max_height = global::App1.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::NotXamarin.Core.Resource.Dimension.compat_notification_large_icon_max_width = global::App1.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::NotXamarin.Core.Resource.Dimension.def_drawer_elevation = global::App1.Resource.Dimension.def_drawer_elevation;
+			global::NotXamarin.Core.Resource.Dimension.disabled_alpha_material_dark = global::App1.Resource.Dimension.disabled_alpha_material_dark;
+			global::NotXamarin.Core.Resource.Dimension.disabled_alpha_material_light = global::App1.Resource.Dimension.disabled_alpha_material_light;
+			global::NotXamarin.Core.Resource.Dimension.highlight_alpha_material_colored = global::App1.Resource.Dimension.highlight_alpha_material_colored;
+			global::NotXamarin.Core.Resource.Dimension.highlight_alpha_material_dark = global::App1.Resource.Dimension.highlight_alpha_material_dark;
+			global::NotXamarin.Core.Resource.Dimension.highlight_alpha_material_light = global::App1.Resource.Dimension.highlight_alpha_material_light;
+			global::NotXamarin.Core.Resource.Dimension.hint_alpha_material_dark = global::App1.Resource.Dimension.hint_alpha_material_dark;
+			global::NotXamarin.Core.Resource.Dimension.hint_alpha_material_light = global::App1.Resource.Dimension.hint_alpha_material_light;
+			global::NotXamarin.Core.Resource.Dimension.hint_pressed_alpha_material_dark = global::App1.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::NotXamarin.Core.Resource.Dimension.hint_pressed_alpha_material_light = global::App1.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::NotXamarin.Core.Resource.Dimension.notification_action_icon_size = global::App1.Resource.Dimension.notification_action_icon_size;
+			global::NotXamarin.Core.Resource.Dimension.notification_action_text_size = global::App1.Resource.Dimension.notification_action_text_size;
+			global::NotXamarin.Core.Resource.Dimension.notification_big_circle_margin = global::App1.Resource.Dimension.notification_big_circle_margin;
+			global::NotXamarin.Core.Resource.Dimension.notification_content_margin_start = global::App1.Resource.Dimension.notification_content_margin_start;
+			global::NotXamarin.Core.Resource.Dimension.notification_large_icon_height = global::App1.Resource.Dimension.notification_large_icon_height;
+			global::NotXamarin.Core.Resource.Dimension.notification_large_icon_width = global::App1.Resource.Dimension.notification_large_icon_width;
+			global::NotXamarin.Core.Resource.Dimension.notification_main_column_padding_top = global::App1.Resource.Dimension.notification_main_column_padding_top;
+			global::NotXamarin.Core.Resource.Dimension.notification_media_narrow_margin = global::App1.Resource.Dimension.notification_media_narrow_margin;
+			global::NotXamarin.Core.Resource.Dimension.notification_right_icon_size = global::App1.Resource.Dimension.notification_right_icon_size;
+			global::NotXamarin.Core.Resource.Dimension.notification_right_side_padding_top = global::App1.Resource.Dimension.notification_right_side_padding_top;
+			global::NotXamarin.Core.Resource.Dimension.notification_small_icon_background_padding = global::App1.Resource.Dimension.notification_small_icon_background_padding;
+			global::NotXamarin.Core.Resource.Dimension.notification_small_icon_size_as_large = global::App1.Resource.Dimension.notification_small_icon_size_as_large;
+			global::NotXamarin.Core.Resource.Dimension.notification_subtext_size = global::App1.Resource.Dimension.notification_subtext_size;
+			global::NotXamarin.Core.Resource.Dimension.notification_top_pad = global::App1.Resource.Dimension.notification_top_pad;
+			global::NotXamarin.Core.Resource.Dimension.notification_top_pad_large_text = global::App1.Resource.Dimension.notification_top_pad_large_text;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_corner_radius = global::App1.Resource.Dimension.tooltip_corner_radius;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_horizontal_padding = global::App1.Resource.Dimension.tooltip_horizontal_padding;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_margin = global::App1.Resource.Dimension.tooltip_margin;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::App1.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_precise_anchor_threshold = global::App1.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_vertical_padding = global::App1.Resource.Dimension.tooltip_vertical_padding;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_y_offset_non_touch = global::App1.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::NotXamarin.Core.Resource.Dimension.tooltip_y_offset_touch = global::App1.Resource.Dimension.tooltip_y_offset_touch;
+			global::NotXamarin.Core.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::App1.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_action_bar_item_background_material = global::App1.Resource.Drawable.abc_action_bar_item_background_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_borderless_material = global::App1.Resource.Drawable.abc_btn_borderless_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_check_material = global::App1.Resource.Drawable.abc_btn_check_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_check_material_anim = global::App1.Resource.Drawable.abc_btn_check_material_anim;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::App1.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::App1.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_colored_material = global::App1.Resource.Drawable.abc_btn_colored_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_default_mtrl_shape = global::App1.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_radio_material = global::App1.Resource.Drawable.abc_btn_radio_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_radio_material_anim = global::App1.Resource.Drawable.abc_btn_radio_material_anim;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::App1.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::App1.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::App1.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::NotXamarin.Core.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::App1.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::NotXamarin.Core.Resource.Drawable.abc_cab_background_internal_bg = global::App1.Resource.Drawable.abc_cab_background_internal_bg;
+			global::NotXamarin.Core.Resource.Drawable.abc_cab_background_top_material = global::App1.Resource.Drawable.abc_cab_background_top_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::App1.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_control_background_material = global::App1.Resource.Drawable.abc_control_background_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_dialog_material_background = global::App1.Resource.Drawable.abc_dialog_material_background;
+			global::NotXamarin.Core.Resource.Drawable.abc_edit_text_material = global::App1.Resource.Drawable.abc_edit_text_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_ab_back_material = global::App1.Resource.Drawable.abc_ic_ab_back_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::App1.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_clear_material = global::App1.Resource.Drawable.abc_ic_clear_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::App1.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_go_search_api_material = global::App1.Resource.Drawable.abc_ic_go_search_api_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::App1.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::App1.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_menu_overflow_material = global::App1.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::App1.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::App1.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::App1.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_search_api_material = global::App1.Resource.Drawable.abc_ic_search_api_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_star_black_16dp = global::App1.Resource.Drawable.abc_ic_star_black_16dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_star_black_36dp = global::App1.Resource.Drawable.abc_ic_star_black_36dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_star_black_48dp = global::App1.Resource.Drawable.abc_ic_star_black_48dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_star_half_black_16dp = global::App1.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_star_half_black_36dp = global::App1.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_star_half_black_48dp = global::App1.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::NotXamarin.Core.Resource.Drawable.abc_ic_voice_search_api_material = global::App1.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_item_background_holo_dark = global::App1.Resource.Drawable.abc_item_background_holo_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_item_background_holo_light = global::App1.Resource.Drawable.abc_item_background_holo_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_divider_material = global::App1.Resource.Drawable.abc_list_divider_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_divider_mtrl_alpha = global::App1.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_focused_holo = global::App1.Resource.Drawable.abc_list_focused_holo;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_longpressed_holo = global::App1.Resource.Drawable.abc_list_longpressed_holo;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_pressed_holo_dark = global::App1.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_pressed_holo_light = global::App1.Resource.Drawable.abc_list_pressed_holo_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::App1.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::App1.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::App1.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_selector_disabled_holo_light = global::App1.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_selector_holo_dark = global::App1.Resource.Drawable.abc_list_selector_holo_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_list_selector_holo_light = global::App1.Resource.Drawable.abc_list_selector_holo_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::App1.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::NotXamarin.Core.Resource.Drawable.abc_popup_background_mtrl_mult = global::App1.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::NotXamarin.Core.Resource.Drawable.abc_ratingbar_indicator_material = global::App1.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ratingbar_material = global::App1.Resource.Drawable.abc_ratingbar_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_ratingbar_small_material = global::App1.Resource.Drawable.abc_ratingbar_small_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::App1.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::App1.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::NotXamarin.Core.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::App1.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::NotXamarin.Core.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::App1.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::App1.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_seekbar_thumb_material = global::App1.Resource.Drawable.abc_seekbar_thumb_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_seekbar_tick_mark_material = global::App1.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_seekbar_track_material = global::App1.Resource.Drawable.abc_seekbar_track_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::App1.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_spinner_textfield_background_material = global::App1.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_switch_thumb_material = global::App1.Resource.Drawable.abc_switch_thumb_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_switch_track_mtrl_alpha = global::App1.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_tab_indicator_material = global::App1.Resource.Drawable.abc_tab_indicator_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::App1.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::App1.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::App1.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::App1.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::App1.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::NotXamarin.Core.Resource.Drawable.abc_textfield_search_material = global::App1.Resource.Drawable.abc_textfield_search_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_cursor_material = global::App1.Resource.Drawable.abc_text_cursor_material;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::App1.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::App1.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::App1.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::App1.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::App1.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::NotXamarin.Core.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::App1.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::NotXamarin.Core.Resource.Drawable.abc_vector_test = global::App1.Resource.Drawable.abc_vector_test;
+			global::NotXamarin.Core.Resource.Drawable.btn_checkbox_checked_mtrl = global::App1.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::NotXamarin.Core.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::App1.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::NotXamarin.Core.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::App1.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::NotXamarin.Core.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::App1.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::NotXamarin.Core.Resource.Drawable.btn_radio_off_mtrl = global::App1.Resource.Drawable.btn_radio_off_mtrl;
+			global::NotXamarin.Core.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::App1.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::NotXamarin.Core.Resource.Drawable.btn_radio_on_mtrl = global::App1.Resource.Drawable.btn_radio_on_mtrl;
+			global::NotXamarin.Core.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::App1.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::NotXamarin.Core.Resource.Drawable.notification_action_background = global::App1.Resource.Drawable.notification_action_background;
+			global::NotXamarin.Core.Resource.Drawable.notification_bg = global::App1.Resource.Drawable.notification_bg;
+			global::NotXamarin.Core.Resource.Drawable.notification_bg_low = global::App1.Resource.Drawable.notification_bg_low;
+			global::NotXamarin.Core.Resource.Drawable.notification_bg_low_normal = global::App1.Resource.Drawable.notification_bg_low_normal;
+			global::NotXamarin.Core.Resource.Drawable.notification_bg_low_pressed = global::App1.Resource.Drawable.notification_bg_low_pressed;
+			global::NotXamarin.Core.Resource.Drawable.notification_bg_normal = global::App1.Resource.Drawable.notification_bg_normal;
+			global::NotXamarin.Core.Resource.Drawable.notification_bg_normal_pressed = global::App1.Resource.Drawable.notification_bg_normal_pressed;
+			global::NotXamarin.Core.Resource.Drawable.notification_icon_background = global::App1.Resource.Drawable.notification_icon_background;
+			global::NotXamarin.Core.Resource.Drawable.notification_template_icon_bg = global::App1.Resource.Drawable.notification_template_icon_bg;
+			global::NotXamarin.Core.Resource.Drawable.notification_template_icon_low_bg = global::App1.Resource.Drawable.notification_template_icon_low_bg;
+			global::NotXamarin.Core.Resource.Drawable.notification_tile_bg = global::App1.Resource.Drawable.notification_tile_bg;
+			global::NotXamarin.Core.Resource.Drawable.notify_panel_notification_icon_bg = global::App1.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::NotXamarin.Core.Resource.Drawable.tooltip_frame_dark = global::App1.Resource.Drawable.tooltip_frame_dark;
+			global::NotXamarin.Core.Resource.Drawable.tooltip_frame_light = global::App1.Resource.Drawable.tooltip_frame_light;
+			global::NotXamarin.Core.Resource.Id.accessibility_action_clickable_span = global::App1.Resource.Id.accessibility_action_clickable_span;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_0 = global::App1.Resource.Id.accessibility_custom_action_0;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_1 = global::App1.Resource.Id.accessibility_custom_action_1;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_10 = global::App1.Resource.Id.accessibility_custom_action_10;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_11 = global::App1.Resource.Id.accessibility_custom_action_11;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_12 = global::App1.Resource.Id.accessibility_custom_action_12;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_13 = global::App1.Resource.Id.accessibility_custom_action_13;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_14 = global::App1.Resource.Id.accessibility_custom_action_14;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_15 = global::App1.Resource.Id.accessibility_custom_action_15;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_16 = global::App1.Resource.Id.accessibility_custom_action_16;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_17 = global::App1.Resource.Id.accessibility_custom_action_17;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_18 = global::App1.Resource.Id.accessibility_custom_action_18;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_19 = global::App1.Resource.Id.accessibility_custom_action_19;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_2 = global::App1.Resource.Id.accessibility_custom_action_2;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_20 = global::App1.Resource.Id.accessibility_custom_action_20;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_21 = global::App1.Resource.Id.accessibility_custom_action_21;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_22 = global::App1.Resource.Id.accessibility_custom_action_22;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_23 = global::App1.Resource.Id.accessibility_custom_action_23;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_24 = global::App1.Resource.Id.accessibility_custom_action_24;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_25 = global::App1.Resource.Id.accessibility_custom_action_25;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_26 = global::App1.Resource.Id.accessibility_custom_action_26;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_27 = global::App1.Resource.Id.accessibility_custom_action_27;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_28 = global::App1.Resource.Id.accessibility_custom_action_28;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_29 = global::App1.Resource.Id.accessibility_custom_action_29;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_3 = global::App1.Resource.Id.accessibility_custom_action_3;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_30 = global::App1.Resource.Id.accessibility_custom_action_30;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_31 = global::App1.Resource.Id.accessibility_custom_action_31;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_4 = global::App1.Resource.Id.accessibility_custom_action_4;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_5 = global::App1.Resource.Id.accessibility_custom_action_5;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_6 = global::App1.Resource.Id.accessibility_custom_action_6;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_7 = global::App1.Resource.Id.accessibility_custom_action_7;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_8 = global::App1.Resource.Id.accessibility_custom_action_8;
+			global::NotXamarin.Core.Resource.Id.accessibility_custom_action_9 = global::App1.Resource.Id.accessibility_custom_action_9;
+			global::NotXamarin.Core.Resource.Id.actions = global::App1.Resource.Id.actions;
+			global::NotXamarin.Core.Resource.Id.action_bar = global::App1.Resource.Id.action_bar;
+			global::NotXamarin.Core.Resource.Id.action_bar_activity_content = global::App1.Resource.Id.action_bar_activity_content;
+			global::NotXamarin.Core.Resource.Id.action_bar_container = global::App1.Resource.Id.action_bar_container;
+			global::NotXamarin.Core.Resource.Id.action_bar_root = global::App1.Resource.Id.action_bar_root;
+			global::NotXamarin.Core.Resource.Id.action_bar_spinner = global::App1.Resource.Id.action_bar_spinner;
+			global::NotXamarin.Core.Resource.Id.action_bar_subtitle = global::App1.Resource.Id.action_bar_subtitle;
+			global::NotXamarin.Core.Resource.Id.action_bar_title = global::App1.Resource.Id.action_bar_title;
+			global::NotXamarin.Core.Resource.Id.action_container = global::App1.Resource.Id.action_container;
+			global::NotXamarin.Core.Resource.Id.action_context_bar = global::App1.Resource.Id.action_context_bar;
+			global::NotXamarin.Core.Resource.Id.action_divider = global::App1.Resource.Id.action_divider;
+			global::NotXamarin.Core.Resource.Id.action_image = global::App1.Resource.Id.action_image;
+			global::NotXamarin.Core.Resource.Id.action_menu_divider = global::App1.Resource.Id.action_menu_divider;
+			global::NotXamarin.Core.Resource.Id.action_menu_presenter = global::App1.Resource.Id.action_menu_presenter;
+			global::NotXamarin.Core.Resource.Id.action_mode_bar = global::App1.Resource.Id.action_mode_bar;
+			global::NotXamarin.Core.Resource.Id.action_mode_bar_stub = global::App1.Resource.Id.action_mode_bar_stub;
+			global::NotXamarin.Core.Resource.Id.action_mode_close_button = global::App1.Resource.Id.action_mode_close_button;
+			global::NotXamarin.Core.Resource.Id.action_text = global::App1.Resource.Id.action_text;
+			global::NotXamarin.Core.Resource.Id.activity_chooser_view_content = global::App1.Resource.Id.activity_chooser_view_content;
+			global::NotXamarin.Core.Resource.Id.add = global::App1.Resource.Id.add;
+			global::NotXamarin.Core.Resource.Id.alertTitle = global::App1.Resource.Id.alertTitle;
+			global::NotXamarin.Core.Resource.Id.ALT = global::App1.Resource.Id.ALT;
+			global::NotXamarin.Core.Resource.Id.always = global::App1.Resource.Id.always;
+			global::NotXamarin.Core.Resource.Id.async = global::App1.Resource.Id.async;
+			global::NotXamarin.Core.Resource.Id.beginning = global::App1.Resource.Id.beginning;
+			global::NotXamarin.Core.Resource.Id.blocking = global::App1.Resource.Id.blocking;
+			global::NotXamarin.Core.Resource.Id.bottom = global::App1.Resource.Id.bottom;
+			global::NotXamarin.Core.Resource.Id.buttonPanel = global::App1.Resource.Id.buttonPanel;
+			global::NotXamarin.Core.Resource.Id.center_vertical = global::App1.Resource.Id.center_vertical;
+			global::NotXamarin.Core.Resource.Id.checkbox = global::App1.Resource.Id.checkbox;
+			global::NotXamarin.Core.Resource.Id.@checked = global::App1.Resource.Id.@checked;
+			global::NotXamarin.Core.Resource.Id.chronometer = global::App1.Resource.Id.chronometer;
+			global::NotXamarin.Core.Resource.Id.collapseActionView = global::App1.Resource.Id.collapseActionView;
+			global::NotXamarin.Core.Resource.Id.content = global::App1.Resource.Id.content;
+			global::NotXamarin.Core.Resource.Id.contentPanel = global::App1.Resource.Id.contentPanel;
+			global::NotXamarin.Core.Resource.Id.CTRL = global::App1.Resource.Id.CTRL;
+			global::NotXamarin.Core.Resource.Id.custom = global::App1.Resource.Id.custom;
+			global::NotXamarin.Core.Resource.Id.customPanel = global::App1.Resource.Id.customPanel;
+			global::NotXamarin.Core.Resource.Id.decor_content_parent = global::App1.Resource.Id.decor_content_parent;
+			global::NotXamarin.Core.Resource.Id.default_activity_button = global::App1.Resource.Id.default_activity_button;
+			global::NotXamarin.Core.Resource.Id.dialog_button = global::App1.Resource.Id.dialog_button;
+			global::NotXamarin.Core.Resource.Id.disableHome = global::App1.Resource.Id.disableHome;
+			global::NotXamarin.Core.Resource.Id.edit_query = global::App1.Resource.Id.edit_query;
+			global::NotXamarin.Core.Resource.Id.end = global::App1.Resource.Id.end;
+			global::NotXamarin.Core.Resource.Id.expanded_menu = global::App1.Resource.Id.expanded_menu;
+			global::NotXamarin.Core.Resource.Id.expand_activities_button = global::App1.Resource.Id.expand_activities_button;
+			global::NotXamarin.Core.Resource.Id.forever = global::App1.Resource.Id.forever;
+			global::NotXamarin.Core.Resource.Id.fragment_container_view_tag = global::App1.Resource.Id.fragment_container_view_tag;
+			global::NotXamarin.Core.Resource.Id.FUNCTION = global::App1.Resource.Id.FUNCTION;
+			global::NotXamarin.Core.Resource.Id.group_divider = global::App1.Resource.Id.group_divider;
+			global::NotXamarin.Core.Resource.Id.home = global::App1.Resource.Id.home;
+			global::NotXamarin.Core.Resource.Id.homeAsUp = global::App1.Resource.Id.homeAsUp;
+			global::NotXamarin.Core.Resource.Id.icon = global::App1.Resource.Id.icon;
+			global::NotXamarin.Core.Resource.Id.icon_group = global::App1.Resource.Id.icon_group;
+			global::NotXamarin.Core.Resource.Id.ifRoom = global::App1.Resource.Id.ifRoom;
+			global::NotXamarin.Core.Resource.Id.image = global::App1.Resource.Id.image;
+			global::NotXamarin.Core.Resource.Id.info = global::App1.Resource.Id.info;
+			global::NotXamarin.Core.Resource.Id.italic = global::App1.Resource.Id.italic;
+			global::NotXamarin.Core.Resource.Id.line1 = global::App1.Resource.Id.line1;
+			global::NotXamarin.Core.Resource.Id.line3 = global::App1.Resource.Id.line3;
+			global::NotXamarin.Core.Resource.Id.listMode = global::App1.Resource.Id.listMode;
+			global::NotXamarin.Core.Resource.Id.list_item = global::App1.Resource.Id.list_item;
+			global::NotXamarin.Core.Resource.Id.message = global::App1.Resource.Id.message;
+			global::NotXamarin.Core.Resource.Id.META = global::App1.Resource.Id.META;
+			global::NotXamarin.Core.Resource.Id.middle = global::App1.Resource.Id.middle;
+			global::NotXamarin.Core.Resource.Id.multiply = global::App1.Resource.Id.multiply;
+			global::NotXamarin.Core.Resource.Id.never = global::App1.Resource.Id.never;
+			global::NotXamarin.Core.Resource.Id.none = global::App1.Resource.Id.none;
+			global::NotXamarin.Core.Resource.Id.normal = global::App1.Resource.Id.normal;
+			global::NotXamarin.Core.Resource.Id.notification_background = global::App1.Resource.Id.notification_background;
+			global::NotXamarin.Core.Resource.Id.notification_main_column = global::App1.Resource.Id.notification_main_column;
+			global::NotXamarin.Core.Resource.Id.notification_main_column_container = global::App1.Resource.Id.notification_main_column_container;
+			global::NotXamarin.Core.Resource.Id.off = global::App1.Resource.Id.off;
+			global::NotXamarin.Core.Resource.Id.on = global::App1.Resource.Id.on;
+			global::NotXamarin.Core.Resource.Id.parentPanel = global::App1.Resource.Id.parentPanel;
+			global::NotXamarin.Core.Resource.Id.progress_circular = global::App1.Resource.Id.progress_circular;
+			global::NotXamarin.Core.Resource.Id.progress_horizontal = global::App1.Resource.Id.progress_horizontal;
+			global::NotXamarin.Core.Resource.Id.radio = global::App1.Resource.Id.radio;
+			global::NotXamarin.Core.Resource.Id.right_icon = global::App1.Resource.Id.right_icon;
+			global::NotXamarin.Core.Resource.Id.right_side = global::App1.Resource.Id.right_side;
+			global::NotXamarin.Core.Resource.Id.screen = global::App1.Resource.Id.screen;
+			global::NotXamarin.Core.Resource.Id.scrollIndicatorDown = global::App1.Resource.Id.scrollIndicatorDown;
+			global::NotXamarin.Core.Resource.Id.scrollIndicatorUp = global::App1.Resource.Id.scrollIndicatorUp;
+			global::NotXamarin.Core.Resource.Id.scrollView = global::App1.Resource.Id.scrollView;
+			global::NotXamarin.Core.Resource.Id.search_badge = global::App1.Resource.Id.search_badge;
+			global::NotXamarin.Core.Resource.Id.search_bar = global::App1.Resource.Id.search_bar;
+			global::NotXamarin.Core.Resource.Id.search_button = global::App1.Resource.Id.search_button;
+			global::NotXamarin.Core.Resource.Id.search_close_btn = global::App1.Resource.Id.search_close_btn;
+			global::NotXamarin.Core.Resource.Id.search_edit_frame = global::App1.Resource.Id.search_edit_frame;
+			global::NotXamarin.Core.Resource.Id.search_go_btn = global::App1.Resource.Id.search_go_btn;
+			global::NotXamarin.Core.Resource.Id.search_mag_icon = global::App1.Resource.Id.search_mag_icon;
+			global::NotXamarin.Core.Resource.Id.search_plate = global::App1.Resource.Id.search_plate;
+			global::NotXamarin.Core.Resource.Id.search_src_text = global::App1.Resource.Id.search_src_text;
+			global::NotXamarin.Core.Resource.Id.search_voice_btn = global::App1.Resource.Id.search_voice_btn;
+			global::NotXamarin.Core.Resource.Id.select_dialog_listview = global::App1.Resource.Id.select_dialog_listview;
+			global::NotXamarin.Core.Resource.Id.SHIFT = global::App1.Resource.Id.SHIFT;
+			global::NotXamarin.Core.Resource.Id.shortcut = global::App1.Resource.Id.shortcut;
+			global::NotXamarin.Core.Resource.Id.showCustom = global::App1.Resource.Id.showCustom;
+			global::NotXamarin.Core.Resource.Id.showHome = global::App1.Resource.Id.showHome;
+			global::NotXamarin.Core.Resource.Id.showTitle = global::App1.Resource.Id.showTitle;
+			global::NotXamarin.Core.Resource.Id.spacer = global::App1.Resource.Id.spacer;
+			global::NotXamarin.Core.Resource.Id.split_action_bar = global::App1.Resource.Id.split_action_bar;
+			global::NotXamarin.Core.Resource.Id.src_atop = global::App1.Resource.Id.src_atop;
+			global::NotXamarin.Core.Resource.Id.src_in = global::App1.Resource.Id.src_in;
+			global::NotXamarin.Core.Resource.Id.src_over = global::App1.Resource.Id.src_over;
+			global::NotXamarin.Core.Resource.Id.submenuarrow = global::App1.Resource.Id.submenuarrow;
+			global::NotXamarin.Core.Resource.Id.submit_area = global::App1.Resource.Id.submit_area;
+			global::NotXamarin.Core.Resource.Id.SYM = global::App1.Resource.Id.SYM;
+			global::NotXamarin.Core.Resource.Id.tabMode = global::App1.Resource.Id.tabMode;
+			global::NotXamarin.Core.Resource.Id.tag_accessibility_actions = global::App1.Resource.Id.tag_accessibility_actions;
+			global::NotXamarin.Core.Resource.Id.tag_accessibility_clickable_spans = global::App1.Resource.Id.tag_accessibility_clickable_spans;
+			global::NotXamarin.Core.Resource.Id.tag_accessibility_heading = global::App1.Resource.Id.tag_accessibility_heading;
+			global::NotXamarin.Core.Resource.Id.tag_accessibility_pane_title = global::App1.Resource.Id.tag_accessibility_pane_title;
+			global::NotXamarin.Core.Resource.Id.tag_screen_reader_focusable = global::App1.Resource.Id.tag_screen_reader_focusable;
+			global::NotXamarin.Core.Resource.Id.tag_transition_group = global::App1.Resource.Id.tag_transition_group;
+			global::NotXamarin.Core.Resource.Id.tag_unhandled_key_event_manager = global::App1.Resource.Id.tag_unhandled_key_event_manager;
+			global::NotXamarin.Core.Resource.Id.tag_unhandled_key_listeners = global::App1.Resource.Id.tag_unhandled_key_listeners;
+			global::NotXamarin.Core.Resource.Id.text = global::App1.Resource.Id.text;
+			global::NotXamarin.Core.Resource.Id.text2 = global::App1.Resource.Id.text2;
+			global::NotXamarin.Core.Resource.Id.textSpacerNoButtons = global::App1.Resource.Id.textSpacerNoButtons;
+			global::NotXamarin.Core.Resource.Id.textSpacerNoTitle = global::App1.Resource.Id.textSpacerNoTitle;
+			global::NotXamarin.Core.Resource.Id.time = global::App1.Resource.Id.time;
+			global::NotXamarin.Core.Resource.Id.title = global::App1.Resource.Id.title;
+			global::NotXamarin.Core.Resource.Id.titleDividerNoCustom = global::App1.Resource.Id.titleDividerNoCustom;
+			global::NotXamarin.Core.Resource.Id.title_template = global::App1.Resource.Id.title_template;
+			global::NotXamarin.Core.Resource.Id.top = global::App1.Resource.Id.top;
+			global::NotXamarin.Core.Resource.Id.topPanel = global::App1.Resource.Id.topPanel;
+			global::NotXamarin.Core.Resource.Id.@unchecked = global::App1.Resource.Id.@unchecked;
+			global::NotXamarin.Core.Resource.Id.uniform = global::App1.Resource.Id.uniform;
+			global::NotXamarin.Core.Resource.Id.up = global::App1.Resource.Id.up;
+			global::NotXamarin.Core.Resource.Id.useLogo = global::App1.Resource.Id.useLogo;
+			global::NotXamarin.Core.Resource.Id.view_tree_saved_state_registry_owner = global::App1.Resource.Id.view_tree_saved_state_registry_owner;
+			global::NotXamarin.Core.Resource.Id.visible_removing_fragment_view_tag = global::App1.Resource.Id.visible_removing_fragment_view_tag;
+			global::NotXamarin.Core.Resource.Id.withText = global::App1.Resource.Id.withText;
+			global::NotXamarin.Core.Resource.Id.wrap_content = global::App1.Resource.Id.wrap_content;
+			global::NotXamarin.Core.Resource.Integer.abc_config_activityDefaultDur = global::App1.Resource.Integer.abc_config_activityDefaultDur;
+			global::NotXamarin.Core.Resource.Integer.abc_config_activityShortDur = global::App1.Resource.Integer.abc_config_activityShortDur;
+			global::NotXamarin.Core.Resource.Integer.cancel_button_image_alpha = global::App1.Resource.Integer.cancel_button_image_alpha;
+			global::NotXamarin.Core.Resource.Integer.config_tooltipAnimTime = global::App1.Resource.Integer.config_tooltipAnimTime;
+			global::NotXamarin.Core.Resource.Integer.status_bar_notification_info_maxnum = global::App1.Resource.Integer.status_bar_notification_info_maxnum;
+			global::NotXamarin.Core.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::App1.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::NotXamarin.Core.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::App1.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::NotXamarin.Core.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::App1.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::NotXamarin.Core.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::App1.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::NotXamarin.Core.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::App1.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::NotXamarin.Core.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::App1.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::NotXamarin.Core.Resource.Interpolator.fast_out_slow_in = global::App1.Resource.Interpolator.fast_out_slow_in;
+			global::NotXamarin.Core.Resource.Layout.abc_action_bar_title_item = global::App1.Resource.Layout.abc_action_bar_title_item;
+			global::NotXamarin.Core.Resource.Layout.abc_action_bar_up_container = global::App1.Resource.Layout.abc_action_bar_up_container;
+			global::NotXamarin.Core.Resource.Layout.abc_action_menu_item_layout = global::App1.Resource.Layout.abc_action_menu_item_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_action_menu_layout = global::App1.Resource.Layout.abc_action_menu_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_action_mode_bar = global::App1.Resource.Layout.abc_action_mode_bar;
+			global::NotXamarin.Core.Resource.Layout.abc_action_mode_close_item_material = global::App1.Resource.Layout.abc_action_mode_close_item_material;
+			global::NotXamarin.Core.Resource.Layout.abc_activity_chooser_view = global::App1.Resource.Layout.abc_activity_chooser_view;
+			global::NotXamarin.Core.Resource.Layout.abc_activity_chooser_view_list_item = global::App1.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::NotXamarin.Core.Resource.Layout.abc_alert_dialog_button_bar_material = global::App1.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::NotXamarin.Core.Resource.Layout.abc_alert_dialog_material = global::App1.Resource.Layout.abc_alert_dialog_material;
+			global::NotXamarin.Core.Resource.Layout.abc_alert_dialog_title_material = global::App1.Resource.Layout.abc_alert_dialog_title_material;
+			global::NotXamarin.Core.Resource.Layout.abc_cascading_menu_item_layout = global::App1.Resource.Layout.abc_cascading_menu_item_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_dialog_title_material = global::App1.Resource.Layout.abc_dialog_title_material;
+			global::NotXamarin.Core.Resource.Layout.abc_expanded_menu_layout = global::App1.Resource.Layout.abc_expanded_menu_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_list_menu_item_checkbox = global::App1.Resource.Layout.abc_list_menu_item_checkbox;
+			global::NotXamarin.Core.Resource.Layout.abc_list_menu_item_icon = global::App1.Resource.Layout.abc_list_menu_item_icon;
+			global::NotXamarin.Core.Resource.Layout.abc_list_menu_item_layout = global::App1.Resource.Layout.abc_list_menu_item_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_list_menu_item_radio = global::App1.Resource.Layout.abc_list_menu_item_radio;
+			global::NotXamarin.Core.Resource.Layout.abc_popup_menu_header_item_layout = global::App1.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_popup_menu_item_layout = global::App1.Resource.Layout.abc_popup_menu_item_layout;
+			global::NotXamarin.Core.Resource.Layout.abc_screen_content_include = global::App1.Resource.Layout.abc_screen_content_include;
+			global::NotXamarin.Core.Resource.Layout.abc_screen_simple = global::App1.Resource.Layout.abc_screen_simple;
+			global::NotXamarin.Core.Resource.Layout.abc_screen_simple_overlay_action_mode = global::App1.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::NotXamarin.Core.Resource.Layout.abc_screen_toolbar = global::App1.Resource.Layout.abc_screen_toolbar;
+			global::NotXamarin.Core.Resource.Layout.abc_search_dropdown_item_icons_2line = global::App1.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::NotXamarin.Core.Resource.Layout.abc_search_view = global::App1.Resource.Layout.abc_search_view;
+			global::NotXamarin.Core.Resource.Layout.abc_select_dialog_material = global::App1.Resource.Layout.abc_select_dialog_material;
+			global::NotXamarin.Core.Resource.Layout.abc_tooltip = global::App1.Resource.Layout.abc_tooltip;
+			global::NotXamarin.Core.Resource.Layout.custom_dialog = global::App1.Resource.Layout.custom_dialog;
+			global::NotXamarin.Core.Resource.Layout.notification_action = global::App1.Resource.Layout.notification_action;
+			global::NotXamarin.Core.Resource.Layout.notification_action_tombstone = global::App1.Resource.Layout.notification_action_tombstone;
+			global::NotXamarin.Core.Resource.Layout.notification_template_custom_big = global::App1.Resource.Layout.notification_template_custom_big;
+			global::NotXamarin.Core.Resource.Layout.notification_template_icon_group = global::App1.Resource.Layout.notification_template_icon_group;
+			global::NotXamarin.Core.Resource.Layout.notification_template_part_chronometer = global::App1.Resource.Layout.notification_template_part_chronometer;
+			global::NotXamarin.Core.Resource.Layout.notification_template_part_time = global::App1.Resource.Layout.notification_template_part_time;
+			global::NotXamarin.Core.Resource.Layout.select_dialog_item_material = global::App1.Resource.Layout.select_dialog_item_material;
+			global::NotXamarin.Core.Resource.Layout.select_dialog_multichoice_material = global::App1.Resource.Layout.select_dialog_multichoice_material;
+			global::NotXamarin.Core.Resource.Layout.select_dialog_singlechoice_material = global::App1.Resource.Layout.select_dialog_singlechoice_material;
+			global::NotXamarin.Core.Resource.Layout.support_simple_spinner_dropdown_item = global::App1.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::NotXamarin.Core.Resource.String.abc_action_bar_home_description = global::App1.Resource.String.abc_action_bar_home_description;
+			global::NotXamarin.Core.Resource.String.abc_action_bar_up_description = global::App1.Resource.String.abc_action_bar_up_description;
+			global::NotXamarin.Core.Resource.String.abc_action_menu_overflow_description = global::App1.Resource.String.abc_action_menu_overflow_description;
+			global::NotXamarin.Core.Resource.String.abc_action_mode_done = global::App1.Resource.String.abc_action_mode_done;
+			global::NotXamarin.Core.Resource.String.abc_activitychooserview_choose_application = global::App1.Resource.String.abc_activitychooserview_choose_application;
+			global::NotXamarin.Core.Resource.String.abc_activity_chooser_view_see_all = global::App1.Resource.String.abc_activity_chooser_view_see_all;
+			global::NotXamarin.Core.Resource.String.abc_capital_off = global::App1.Resource.String.abc_capital_off;
+			global::NotXamarin.Core.Resource.String.abc_capital_on = global::App1.Resource.String.abc_capital_on;
+			global::NotXamarin.Core.Resource.String.abc_menu_alt_shortcut_label = global::App1.Resource.String.abc_menu_alt_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_ctrl_shortcut_label = global::App1.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_delete_shortcut_label = global::App1.Resource.String.abc_menu_delete_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_enter_shortcut_label = global::App1.Resource.String.abc_menu_enter_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_function_shortcut_label = global::App1.Resource.String.abc_menu_function_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_meta_shortcut_label = global::App1.Resource.String.abc_menu_meta_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_shift_shortcut_label = global::App1.Resource.String.abc_menu_shift_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_space_shortcut_label = global::App1.Resource.String.abc_menu_space_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_menu_sym_shortcut_label = global::App1.Resource.String.abc_menu_sym_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_prepend_shortcut_label = global::App1.Resource.String.abc_prepend_shortcut_label;
+			global::NotXamarin.Core.Resource.String.abc_searchview_description_clear = global::App1.Resource.String.abc_searchview_description_clear;
+			global::NotXamarin.Core.Resource.String.abc_searchview_description_query = global::App1.Resource.String.abc_searchview_description_query;
+			global::NotXamarin.Core.Resource.String.abc_searchview_description_search = global::App1.Resource.String.abc_searchview_description_search;
+			global::NotXamarin.Core.Resource.String.abc_searchview_description_submit = global::App1.Resource.String.abc_searchview_description_submit;
+			global::NotXamarin.Core.Resource.String.abc_searchview_description_voice = global::App1.Resource.String.abc_searchview_description_voice;
+			global::NotXamarin.Core.Resource.String.abc_search_hint = global::App1.Resource.String.abc_search_hint;
+			global::NotXamarin.Core.Resource.String.abc_shareactionprovider_share_with = global::App1.Resource.String.abc_shareactionprovider_share_with;
+			global::NotXamarin.Core.Resource.String.abc_shareactionprovider_share_with_application = global::App1.Resource.String.abc_shareactionprovider_share_with_application;
+			global::NotXamarin.Core.Resource.String.abc_toolbar_collapse_description = global::App1.Resource.String.abc_toolbar_collapse_description;
+			global::NotXamarin.Core.Resource.String.app_name = global::App1.Resource.String.app_name;
+			global::NotXamarin.Core.Resource.String.hello = global::App1.Resource.String.hello;
+			global::NotXamarin.Core.Resource.String.search_menu_title = global::App1.Resource.String.search_menu_title;
+			global::NotXamarin.Core.Resource.String.status_bar_notification_info_overflow = global::App1.Resource.String.status_bar_notification_info_overflow;
+			global::NotXamarin.Core.Resource.Style.AlertDialog_AppCompat = global::App1.Resource.Style.AlertDialog_AppCompat;
+			global::NotXamarin.Core.Resource.Style.AlertDialog_AppCompat_Light = global::App1.Resource.Style.AlertDialog_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Animation_AppCompat_Dialog = global::App1.Resource.Style.Animation_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Animation_AppCompat_DropDownUp = global::App1.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::NotXamarin.Core.Resource.Style.Animation_AppCompat_Tooltip = global::App1.Resource.Style.Animation_AppCompat_Tooltip;
+			global::NotXamarin.Core.Resource.Style.Base_AlertDialog_AppCompat = global::App1.Resource.Style.Base_AlertDialog_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_AlertDialog_AppCompat_Light = global::App1.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_Animation_AppCompat_Dialog = global::App1.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::App1.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::NotXamarin.Core.Resource.Style.Base_Animation_AppCompat_Tooltip = global::App1.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::NotXamarin.Core.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::App1.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_DialogWindowTitle_AppCompat = global::App1.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat = global::App1.Resource.Style.Base_TextAppearance_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Button = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Large = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::App1.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::App1.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::App1.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Small = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Title = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::App1.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::App1.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::App1.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::NotXamarin.Core.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::App1.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::App1.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat = global::App1.Resource.Style.Base_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::App1.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Dialog = global::App1.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::App1.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::App1.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::App1.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::App1.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light = global::App1.Resource.Style.Base_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::App1.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::App1.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::App1.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::App1.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::App1.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::NotXamarin.Core.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::App1.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::NotXamarin.Core.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::App1.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_V21_Theme_AppCompat = global::App1.Resource.Style.Base_V21_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::App1.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_V21_Theme_AppCompat_Light = global::App1.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::App1.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_V22_Theme_AppCompat = global::App1.Resource.Style.Base_V22_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_V22_Theme_AppCompat_Light = global::App1.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_V23_Theme_AppCompat = global::App1.Resource.Style.Base_V23_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_V23_Theme_AppCompat_Light = global::App1.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_V26_Theme_AppCompat = global::App1.Resource.Style.Base_V26_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_V26_Theme_AppCompat_Light = global::App1.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::App1.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::NotXamarin.Core.Resource.Style.Base_V28_Theme_AppCompat = global::App1.Resource.Style.Base_V28_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_V28_Theme_AppCompat_Light = global::App1.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::App1.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Theme_AppCompat = global::App1.Resource.Style.Base_V7_Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::App1.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Theme_AppCompat_Light = global::App1.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::App1.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::App1.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::App1.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::NotXamarin.Core.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::App1.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionBar = global::App1.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::App1.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::App1.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::App1.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::App1.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionButton = global::App1.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::App1.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::App1.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActionMode = global::App1.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::App1.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::App1.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Button = global::App1.Resource.Style.Base_Widget_AppCompat_Button;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::App1.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::App1.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::App1.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::App1.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::App1.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::App1.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Button_Small = global::App1.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::App1.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::App1.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::App1.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::App1.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::App1.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::App1.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_EditText = global::App1.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ImageButton = global::App1.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::App1.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::App1.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::App1.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::App1.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::App1.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::App1.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::App1.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::App1.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::App1.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::App1.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ListView = global::App1.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::App1.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::App1.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::App1.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::App1.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::App1.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::App1.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::App1.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_RatingBar = global::App1.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::App1.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::App1.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_SearchView = global::App1.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::App1.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_SeekBar = global::App1.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::App1.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Spinner = global::App1.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::App1.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_TextView = global::App1.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::App1.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Toolbar = global::App1.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::NotXamarin.Core.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::App1.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::NotXamarin.Core.Resource.Style.Platform_AppCompat = global::App1.Resource.Style.Platform_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Platform_AppCompat_Light = global::App1.Resource.Style.Platform_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Platform_ThemeOverlay_AppCompat = global::App1.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::App1.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::NotXamarin.Core.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::App1.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Platform_V21_AppCompat = global::App1.Resource.Style.Platform_V21_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Platform_V21_AppCompat_Light = global::App1.Resource.Style.Platform_V21_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Platform_V25_AppCompat = global::App1.Resource.Style.Platform_V25_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Platform_V25_AppCompat_Light = global::App1.Resource.Style.Platform_V25_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Platform_Widget_AppCompat_Spinner = global::App1.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::App1.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::NotXamarin.Core.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::App1.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::NotXamarin.Core.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::App1.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::NotXamarin.Core.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::App1.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat = global::App1.Resource.Style.TextAppearance_AppCompat;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Body1 = global::App1.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Body2 = global::App1.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Button = global::App1.Resource.Style.TextAppearance_AppCompat_Button;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Caption = global::App1.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Display1 = global::App1.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Display2 = global::App1.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Display3 = global::App1.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Display4 = global::App1.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Headline = global::App1.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Large = global::App1.Resource.Style.TextAppearance_AppCompat_Large;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::App1.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::App1.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::App1.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::App1.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Medium = global::App1.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Menu = global::App1.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::App1.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::App1.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Small = global::App1.Resource.Style.TextAppearance_AppCompat_Small;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Subhead = global::App1.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Title = global::App1.Resource.Style.TextAppearance_AppCompat_Title;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Tooltip = global::App1.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::App1.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Compat_Notification = global::App1.Resource.Style.TextAppearance_Compat_Notification;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Compat_Notification_Info = global::App1.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::App1.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Compat_Notification_Time = global::App1.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Compat_Notification_Title = global::App1.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::App1.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::App1.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::NotXamarin.Core.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::App1.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat = global::App1.Resource.Style.ThemeOverlay_AppCompat;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::App1.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_Dark = global::App1.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::App1.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::App1.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::App1.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::App1.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::App1.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.ThemeOverlay_AppCompat_Light = global::App1.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat = global::App1.Resource.Style.Theme_AppCompat;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_CompactMenu = global::App1.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight = global::App1.Resource.Style.Theme_AppCompat_DayNight;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::App1.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::App1.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::App1.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::App1.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::App1.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::App1.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Dialog = global::App1.Resource.Style.Theme_AppCompat_Dialog;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::App1.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Dialog_Alert = global::App1.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::App1.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Empty = global::App1.Resource.Style.Theme_AppCompat_Empty;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light = global::App1.Resource.Style.Theme_AppCompat_Light;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::App1.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light_Dialog = global::App1.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::App1.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::App1.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::App1.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::App1.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::NotXamarin.Core.Resource.Style.Theme_AppCompat_NoActionBar = global::App1.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionBar = global::App1.Resource.Style.Widget_AppCompat_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::App1.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::App1.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::App1.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::App1.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionButton = global::App1.Resource.Style.Widget_AppCompat_ActionButton;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::App1.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::App1.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActionMode = global::App1.Resource.Style.Widget_AppCompat_ActionMode;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ActivityChooserView = global::App1.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::App1.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Button = global::App1.Resource.Style.Widget_AppCompat_Button;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ButtonBar = global::App1.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::App1.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Button_Borderless = global::App1.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::App1.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::App1.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Button_Colored = global::App1.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Button_Small = global::App1.Resource.Style.Widget_AppCompat_Button_Small;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::App1.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::App1.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::App1.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::App1.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::App1.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_EditText = global::App1.Resource.Style.Widget_AppCompat_EditText;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ImageButton = global::App1.Resource.Style.Widget_AppCompat_ImageButton;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::App1.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionButton = global::App1.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::App1.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::App1.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::App1.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::App1.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::App1.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::App1.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::App1.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::App1.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::App1.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::App1.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_SearchView = global::App1.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::App1.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ListMenuView = global::App1.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ListPopupWindow = global::App1.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ListView = global::App1.Resource.Style.Widget_AppCompat_ListView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ListView_DropDown = global::App1.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ListView_Menu = global::App1.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_PopupMenu = global::App1.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::App1.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_PopupWindow = global::App1.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ProgressBar = global::App1.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::App1.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_RatingBar = global::App1.Resource.Style.Widget_AppCompat_RatingBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::App1.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_RatingBar_Small = global::App1.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_SearchView = global::App1.Resource.Style.Widget_AppCompat_SearchView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::App1.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_SeekBar = global::App1.Resource.Style.Widget_AppCompat_SeekBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::App1.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Spinner = global::App1.Resource.Style.Widget_AppCompat_Spinner;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::App1.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::App1.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::App1.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_TextView = global::App1.Resource.Style.Widget_AppCompat_TextView;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::App1.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Toolbar = global::App1.Resource.Style.Widget_AppCompat_Toolbar;
+			global::NotXamarin.Core.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::App1.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::NotXamarin.Core.Resource.Style.Widget_Compat_NotificationActionContainer = global::App1.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::NotXamarin.Core.Resource.Style.Widget_Compat_NotificationActionText = global::App1.Resource.Style.Widget_Compat_NotificationActionText;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar = global::App1.Resource.Styleable.ActionBar;
+			global::NotXamarin.Core.Resource.Styleable.ActionBarLayout = global::App1.Resource.Styleable.ActionBarLayout;
+			global::NotXamarin.Core.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::App1.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_background = global::App1.Resource.Styleable.ActionBar_background;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_backgroundSplit = global::App1.Resource.Styleable.ActionBar_backgroundSplit;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_backgroundStacked = global::App1.Resource.Styleable.ActionBar_backgroundStacked;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_contentInsetEnd = global::App1.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::App1.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_contentInsetLeft = global::App1.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_contentInsetRight = global::App1.Resource.Styleable.ActionBar_contentInsetRight;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_contentInsetStart = global::App1.Resource.Styleable.ActionBar_contentInsetStart;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::App1.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_customNavigationLayout = global::App1.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_displayOptions = global::App1.Resource.Styleable.ActionBar_displayOptions;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_divider = global::App1.Resource.Styleable.ActionBar_divider;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_elevation = global::App1.Resource.Styleable.ActionBar_elevation;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_height = global::App1.Resource.Styleable.ActionBar_height;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_hideOnContentScroll = global::App1.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_homeAsUpIndicator = global::App1.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_homeLayout = global::App1.Resource.Styleable.ActionBar_homeLayout;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_icon = global::App1.Resource.Styleable.ActionBar_icon;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::App1.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_itemPadding = global::App1.Resource.Styleable.ActionBar_itemPadding;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_logo = global::App1.Resource.Styleable.ActionBar_logo;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_navigationMode = global::App1.Resource.Styleable.ActionBar_navigationMode;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_popupTheme = global::App1.Resource.Styleable.ActionBar_popupTheme;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_progressBarPadding = global::App1.Resource.Styleable.ActionBar_progressBarPadding;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_progressBarStyle = global::App1.Resource.Styleable.ActionBar_progressBarStyle;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_subtitle = global::App1.Resource.Styleable.ActionBar_subtitle;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_subtitleTextStyle = global::App1.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_title = global::App1.Resource.Styleable.ActionBar_title;
+			global::NotXamarin.Core.Resource.Styleable.ActionBar_titleTextStyle = global::App1.Resource.Styleable.ActionBar_titleTextStyle;
+			global::NotXamarin.Core.Resource.Styleable.ActionMenuItemView = global::App1.Resource.Styleable.ActionMenuItemView;
+			global::NotXamarin.Core.Resource.Styleable.ActionMenuItemView_android_minWidth = global::App1.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::NotXamarin.Core.Resource.Styleable.ActionMenuView = global::App1.Resource.Styleable.ActionMenuView;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode = global::App1.Resource.Styleable.ActionMode;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode_background = global::App1.Resource.Styleable.ActionMode_background;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode_backgroundSplit = global::App1.Resource.Styleable.ActionMode_backgroundSplit;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode_closeItemLayout = global::App1.Resource.Styleable.ActionMode_closeItemLayout;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode_height = global::App1.Resource.Styleable.ActionMode_height;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode_subtitleTextStyle = global::App1.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::NotXamarin.Core.Resource.Styleable.ActionMode_titleTextStyle = global::App1.Resource.Styleable.ActionMode_titleTextStyle;
+			global::NotXamarin.Core.Resource.Styleable.ActivityChooserView = global::App1.Resource.Styleable.ActivityChooserView;
+			global::NotXamarin.Core.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::App1.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::NotXamarin.Core.Resource.Styleable.ActivityChooserView_initialActivityCount = global::App1.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog = global::App1.Resource.Styleable.AlertDialog;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_android_layout = global::App1.Resource.Styleable.AlertDialog_android_layout;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_buttonIconDimen = global::App1.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::App1.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_listItemLayout = global::App1.Resource.Styleable.AlertDialog_listItemLayout;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_listLayout = global::App1.Resource.Styleable.AlertDialog_listLayout;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::App1.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_showTitle = global::App1.Resource.Styleable.AlertDialog_showTitle;
+			global::NotXamarin.Core.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::App1.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::App1.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableItem = global::App1.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::App1.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::App1.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableTransition = global::App1.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::App1.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::App1.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::App1.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::NotXamarin.Core.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::App1.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatImageView = global::App1.Resource.Styleable.AppCompatImageView;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatImageView_android_src = global::App1.Resource.Styleable.AppCompatImageView_android_src;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatImageView_srcCompat = global::App1.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatImageView_tint = global::App1.Resource.Styleable.AppCompatImageView_tint;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatImageView_tintMode = global::App1.Resource.Styleable.AppCompatImageView_tintMode;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatSeekBar = global::App1.Resource.Styleable.AppCompatSeekBar;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatSeekBar_android_thumb = global::App1.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatSeekBar_tickMark = global::App1.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::App1.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::App1.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper = global::App1.Resource.Styleable.AppCompatTextHelper;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::App1.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::App1.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::App1.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::App1.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::App1.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::App1.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::App1.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView = global::App1.Resource.Styleable.AppCompatTextView;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_android_textAppearance = global::App1.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::App1.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::App1.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::App1.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::App1.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::App1.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::App1.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::App1.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::App1.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::App1.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::App1.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableTint = global::App1.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableTintMode = global::App1.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::App1.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::App1.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_fontFamily = global::App1.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::App1.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::App1.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_lineHeight = global::App1.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_textAllCaps = global::App1.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTextView_textLocale = global::App1.Resource.Styleable.AppCompatTextView_textLocale;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme = global::App1.Resource.Styleable.AppCompatTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarDivider = global::App1.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::App1.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::App1.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarSize = global::App1.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::App1.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarStyle = global::App1.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::App1.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::App1.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::App1.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarTheme = global::App1.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::App1.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::App1.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::App1.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::App1.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeBackground = global::App1.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::App1.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::App1.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeStyle = global::App1.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::App1.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::App1.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::App1.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::App1.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::App1.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::App1.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::App1.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::App1.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::App1.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::App1.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::App1.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonStyle = global::App1.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::App1.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_checkboxStyle = global::App1.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::App1.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorAccent = global::App1.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::App1.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::App1.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorControlActivated = global::App1.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::App1.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorControlNormal = global::App1.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorError = global::App1.Resource.Styleable.AppCompatTheme_colorError;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorPrimary = global::App1.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::App1.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::App1.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_controlBackground = global::App1.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::App1.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::App1.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dialogTheme = global::App1.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::App1.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dividerVertical = global::App1.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::App1.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::App1.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_editTextBackground = global::App1.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_editTextColor = global::App1.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_editTextStyle = global::App1.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::App1.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::App1.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::App1.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::App1.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::App1.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::App1.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::App1.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::App1.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_panelBackground = global::App1.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::App1.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::App1.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::App1.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::App1.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::App1.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::App1.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::App1.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_searchViewStyle = global::App1.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_seekBarStyle = global::App1.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::App1.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::App1.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::App1.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_spinnerStyle = global::App1.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_switchStyle = global::App1.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::App1.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::App1.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::App1.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::App1.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::App1.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_toolbarStyle = global::App1.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::App1.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::App1.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::App1.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowActionBar = global::App1.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::App1.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::App1.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::App1.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::App1.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::App1.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::App1.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::App1.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::App1.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::NotXamarin.Core.Resource.Styleable.AppCompatTheme_windowNoTitle = global::App1.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::NotXamarin.Core.Resource.Styleable.ButtonBarLayout = global::App1.Resource.Styleable.ButtonBarLayout;
+			global::NotXamarin.Core.Resource.Styleable.ButtonBarLayout_allowStacking = global::App1.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::NotXamarin.Core.Resource.Styleable.ColorStateListItem = global::App1.Resource.Styleable.ColorStateListItem;
+			global::NotXamarin.Core.Resource.Styleable.ColorStateListItem_alpha = global::App1.Resource.Styleable.ColorStateListItem_alpha;
+			global::NotXamarin.Core.Resource.Styleable.ColorStateListItem_android_alpha = global::App1.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::NotXamarin.Core.Resource.Styleable.ColorStateListItem_android_color = global::App1.Resource.Styleable.ColorStateListItem_android_color;
+			global::NotXamarin.Core.Resource.Styleable.CompoundButton = global::App1.Resource.Styleable.CompoundButton;
+			global::NotXamarin.Core.Resource.Styleable.CompoundButton_android_button = global::App1.Resource.Styleable.CompoundButton_android_button;
+			global::NotXamarin.Core.Resource.Styleable.CompoundButton_buttonCompat = global::App1.Resource.Styleable.CompoundButton_buttonCompat;
+			global::NotXamarin.Core.Resource.Styleable.CompoundButton_buttonTint = global::App1.Resource.Styleable.CompoundButton_buttonTint;
+			global::NotXamarin.Core.Resource.Styleable.CompoundButton_buttonTintMode = global::App1.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle = global::App1.Resource.Styleable.DrawerArrowToggle;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::App1.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::App1.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_barLength = global::App1.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_color = global::App1.Resource.Styleable.DrawerArrowToggle_color;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_drawableSize = global::App1.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::App1.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_spinBars = global::App1.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::NotXamarin.Core.Resource.Styleable.DrawerArrowToggle_thickness = global::App1.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::NotXamarin.Core.Resource.Styleable.DrawerLayout = global::App1.Resource.Styleable.DrawerLayout;
+			global::NotXamarin.Core.Resource.Styleable.DrawerLayout_elevation = global::App1.Resource.Styleable.DrawerLayout_elevation;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily = global::App1.Resource.Styleable.FontFamily;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont = global::App1.Resource.Styleable.FontFamilyFont;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_android_font = global::App1.Resource.Styleable.FontFamilyFont_android_font;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_android_fontStyle = global::App1.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::App1.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_android_fontWeight = global::App1.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::App1.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_font = global::App1.Resource.Styleable.FontFamilyFont_font;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_fontStyle = global::App1.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::App1.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_fontWeight = global::App1.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::NotXamarin.Core.Resource.Styleable.FontFamilyFont_ttcIndex = global::App1.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily_fontProviderAuthority = global::App1.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily_fontProviderCerts = global::App1.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::App1.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::App1.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily_fontProviderPackage = global::App1.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::NotXamarin.Core.Resource.Styleable.FontFamily_fontProviderQuery = global::App1.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::NotXamarin.Core.Resource.Styleable.Fragment = global::App1.Resource.Styleable.Fragment;
+			global::NotXamarin.Core.Resource.Styleable.FragmentContainerView = global::App1.Resource.Styleable.FragmentContainerView;
+			global::NotXamarin.Core.Resource.Styleable.FragmentContainerView_android_name = global::App1.Resource.Styleable.FragmentContainerView_android_name;
+			global::NotXamarin.Core.Resource.Styleable.FragmentContainerView_android_tag = global::App1.Resource.Styleable.FragmentContainerView_android_tag;
+			global::NotXamarin.Core.Resource.Styleable.Fragment_android_id = global::App1.Resource.Styleable.Fragment_android_id;
+			global::NotXamarin.Core.Resource.Styleable.Fragment_android_name = global::App1.Resource.Styleable.Fragment_android_name;
+			global::NotXamarin.Core.Resource.Styleable.Fragment_android_tag = global::App1.Resource.Styleable.Fragment_android_tag;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor = global::App1.Resource.Styleable.GradientColor;
+			global::NotXamarin.Core.Resource.Styleable.GradientColorItem = global::App1.Resource.Styleable.GradientColorItem;
+			global::NotXamarin.Core.Resource.Styleable.GradientColorItem_android_color = global::App1.Resource.Styleable.GradientColorItem_android_color;
+			global::NotXamarin.Core.Resource.Styleable.GradientColorItem_android_offset = global::App1.Resource.Styleable.GradientColorItem_android_offset;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_centerColor = global::App1.Resource.Styleable.GradientColor_android_centerColor;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_centerX = global::App1.Resource.Styleable.GradientColor_android_centerX;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_centerY = global::App1.Resource.Styleable.GradientColor_android_centerY;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_endColor = global::App1.Resource.Styleable.GradientColor_android_endColor;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_endX = global::App1.Resource.Styleable.GradientColor_android_endX;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_endY = global::App1.Resource.Styleable.GradientColor_android_endY;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_gradientRadius = global::App1.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_startColor = global::App1.Resource.Styleable.GradientColor_android_startColor;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_startX = global::App1.Resource.Styleable.GradientColor_android_startX;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_startY = global::App1.Resource.Styleable.GradientColor_android_startY;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_tileMode = global::App1.Resource.Styleable.GradientColor_android_tileMode;
+			global::NotXamarin.Core.Resource.Styleable.GradientColor_android_type = global::App1.Resource.Styleable.GradientColor_android_type;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat = global::App1.Resource.Styleable.LinearLayoutCompat;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::App1.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::App1.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_android_gravity = global::App1.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_android_orientation = global::App1.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::App1.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_divider = global::App1.Resource.Styleable.LinearLayoutCompat_divider;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::App1.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_Layout = global::App1.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::App1.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::App1.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::App1.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::App1.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::App1.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::NotXamarin.Core.Resource.Styleable.LinearLayoutCompat_showDividers = global::App1.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::NotXamarin.Core.Resource.Styleable.ListPopupWindow = global::App1.Resource.Styleable.ListPopupWindow;
+			global::NotXamarin.Core.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::App1.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::NotXamarin.Core.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::App1.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup = global::App1.Resource.Styleable.MenuGroup;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup_android_checkableBehavior = global::App1.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup_android_enabled = global::App1.Resource.Styleable.MenuGroup_android_enabled;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup_android_id = global::App1.Resource.Styleable.MenuGroup_android_id;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup_android_menuCategory = global::App1.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup_android_orderInCategory = global::App1.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::NotXamarin.Core.Resource.Styleable.MenuGroup_android_visible = global::App1.Resource.Styleable.MenuGroup_android_visible;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem = global::App1.Resource.Styleable.MenuItem;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_actionLayout = global::App1.Resource.Styleable.MenuItem_actionLayout;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_actionProviderClass = global::App1.Resource.Styleable.MenuItem_actionProviderClass;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_actionViewClass = global::App1.Resource.Styleable.MenuItem_actionViewClass;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_alphabeticModifiers = global::App1.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::App1.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_checkable = global::App1.Resource.Styleable.MenuItem_android_checkable;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_checked = global::App1.Resource.Styleable.MenuItem_android_checked;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_enabled = global::App1.Resource.Styleable.MenuItem_android_enabled;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_icon = global::App1.Resource.Styleable.MenuItem_android_icon;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_id = global::App1.Resource.Styleable.MenuItem_android_id;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_menuCategory = global::App1.Resource.Styleable.MenuItem_android_menuCategory;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_numericShortcut = global::App1.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_onClick = global::App1.Resource.Styleable.MenuItem_android_onClick;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_orderInCategory = global::App1.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_title = global::App1.Resource.Styleable.MenuItem_android_title;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_titleCondensed = global::App1.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_android_visible = global::App1.Resource.Styleable.MenuItem_android_visible;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_contentDescription = global::App1.Resource.Styleable.MenuItem_contentDescription;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_iconTint = global::App1.Resource.Styleable.MenuItem_iconTint;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_iconTintMode = global::App1.Resource.Styleable.MenuItem_iconTintMode;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_numericModifiers = global::App1.Resource.Styleable.MenuItem_numericModifiers;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_showAsAction = global::App1.Resource.Styleable.MenuItem_showAsAction;
+			global::NotXamarin.Core.Resource.Styleable.MenuItem_tooltipText = global::App1.Resource.Styleable.MenuItem_tooltipText;
+			global::NotXamarin.Core.Resource.Styleable.MenuView = global::App1.Resource.Styleable.MenuView;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_headerBackground = global::App1.Resource.Styleable.MenuView_android_headerBackground;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_horizontalDivider = global::App1.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_itemBackground = global::App1.Resource.Styleable.MenuView_android_itemBackground;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::App1.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_itemTextAppearance = global::App1.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_verticalDivider = global::App1.Resource.Styleable.MenuView_android_verticalDivider;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_android_windowAnimationStyle = global::App1.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_preserveIconSpacing = global::App1.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::NotXamarin.Core.Resource.Styleable.MenuView_subMenuArrow = global::App1.Resource.Styleable.MenuView_subMenuArrow;
+			global::NotXamarin.Core.Resource.Styleable.PopupWindow = global::App1.Resource.Styleable.PopupWindow;
+			global::NotXamarin.Core.Resource.Styleable.PopupWindowBackgroundState = global::App1.Resource.Styleable.PopupWindowBackgroundState;
+			global::NotXamarin.Core.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::App1.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::NotXamarin.Core.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::App1.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::NotXamarin.Core.Resource.Styleable.PopupWindow_android_popupBackground = global::App1.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::NotXamarin.Core.Resource.Styleable.PopupWindow_overlapAnchor = global::App1.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::NotXamarin.Core.Resource.Styleable.RecycleListView = global::App1.Resource.Styleable.RecycleListView;
+			global::NotXamarin.Core.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::App1.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::NotXamarin.Core.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::App1.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::NotXamarin.Core.Resource.Styleable.SearchView = global::App1.Resource.Styleable.SearchView;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_android_focusable = global::App1.Resource.Styleable.SearchView_android_focusable;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_android_imeOptions = global::App1.Resource.Styleable.SearchView_android_imeOptions;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_android_inputType = global::App1.Resource.Styleable.SearchView_android_inputType;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_android_maxWidth = global::App1.Resource.Styleable.SearchView_android_maxWidth;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_closeIcon = global::App1.Resource.Styleable.SearchView_closeIcon;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_commitIcon = global::App1.Resource.Styleable.SearchView_commitIcon;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_defaultQueryHint = global::App1.Resource.Styleable.SearchView_defaultQueryHint;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_goIcon = global::App1.Resource.Styleable.SearchView_goIcon;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_iconifiedByDefault = global::App1.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_layout = global::App1.Resource.Styleable.SearchView_layout;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_queryBackground = global::App1.Resource.Styleable.SearchView_queryBackground;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_queryHint = global::App1.Resource.Styleable.SearchView_queryHint;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_searchHintIcon = global::App1.Resource.Styleable.SearchView_searchHintIcon;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_searchIcon = global::App1.Resource.Styleable.SearchView_searchIcon;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_submitBackground = global::App1.Resource.Styleable.SearchView_submitBackground;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_suggestionRowLayout = global::App1.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::NotXamarin.Core.Resource.Styleable.SearchView_voiceIcon = global::App1.Resource.Styleable.SearchView_voiceIcon;
+			global::NotXamarin.Core.Resource.Styleable.Spinner = global::App1.Resource.Styleable.Spinner;
+			global::NotXamarin.Core.Resource.Styleable.Spinner_android_dropDownWidth = global::App1.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::NotXamarin.Core.Resource.Styleable.Spinner_android_entries = global::App1.Resource.Styleable.Spinner_android_entries;
+			global::NotXamarin.Core.Resource.Styleable.Spinner_android_popupBackground = global::App1.Resource.Styleable.Spinner_android_popupBackground;
+			global::NotXamarin.Core.Resource.Styleable.Spinner_android_prompt = global::App1.Resource.Styleable.Spinner_android_prompt;
+			global::NotXamarin.Core.Resource.Styleable.Spinner_popupTheme = global::App1.Resource.Styleable.Spinner_popupTheme;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable = global::App1.Resource.Styleable.StateListDrawable;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawableItem = global::App1.Resource.Styleable.StateListDrawableItem;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawableItem_android_drawable = global::App1.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable_android_constantSize = global::App1.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable_android_dither = global::App1.Resource.Styleable.StateListDrawable_android_dither;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::App1.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::App1.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable_android_variablePadding = global::App1.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::NotXamarin.Core.Resource.Styleable.StateListDrawable_android_visible = global::App1.Resource.Styleable.StateListDrawable_android_visible;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat = global::App1.Resource.Styleable.SwitchCompat;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_android_textOff = global::App1.Resource.Styleable.SwitchCompat_android_textOff;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_android_textOn = global::App1.Resource.Styleable.SwitchCompat_android_textOn;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_android_thumb = global::App1.Resource.Styleable.SwitchCompat_android_thumb;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_showText = global::App1.Resource.Styleable.SwitchCompat_showText;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_splitTrack = global::App1.Resource.Styleable.SwitchCompat_splitTrack;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_switchMinWidth = global::App1.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_switchPadding = global::App1.Resource.Styleable.SwitchCompat_switchPadding;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_switchTextAppearance = global::App1.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_thumbTextPadding = global::App1.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_thumbTint = global::App1.Resource.Styleable.SwitchCompat_thumbTint;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_thumbTintMode = global::App1.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_track = global::App1.Resource.Styleable.SwitchCompat_track;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_trackTint = global::App1.Resource.Styleable.SwitchCompat_trackTint;
+			global::NotXamarin.Core.Resource.Styleable.SwitchCompat_trackTintMode = global::App1.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance = global::App1.Resource.Styleable.TextAppearance;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_fontFamily = global::App1.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_shadowColor = global::App1.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_shadowDx = global::App1.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_shadowDy = global::App1.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_shadowRadius = global::App1.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_textColor = global::App1.Resource.Styleable.TextAppearance_android_textColor;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_textColorHint = global::App1.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_textColorLink = global::App1.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_textFontWeight = global::App1.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_textSize = global::App1.Resource.Styleable.TextAppearance_android_textSize;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_textStyle = global::App1.Resource.Styleable.TextAppearance_android_textStyle;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_android_typeface = global::App1.Resource.Styleable.TextAppearance_android_typeface;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_fontFamily = global::App1.Resource.Styleable.TextAppearance_fontFamily;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_fontVariationSettings = global::App1.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_textAllCaps = global::App1.Resource.Styleable.TextAppearance_textAllCaps;
+			global::NotXamarin.Core.Resource.Styleable.TextAppearance_textLocale = global::App1.Resource.Styleable.TextAppearance_textLocale;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar = global::App1.Resource.Styleable.Toolbar;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_android_gravity = global::App1.Resource.Styleable.Toolbar_android_gravity;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_android_minHeight = global::App1.Resource.Styleable.Toolbar_android_minHeight;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_buttonGravity = global::App1.Resource.Styleable.Toolbar_buttonGravity;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_collapseContentDescription = global::App1.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_collapseIcon = global::App1.Resource.Styleable.Toolbar_collapseIcon;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_contentInsetEnd = global::App1.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::App1.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_contentInsetLeft = global::App1.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_contentInsetRight = global::App1.Resource.Styleable.Toolbar_contentInsetRight;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_contentInsetStart = global::App1.Resource.Styleable.Toolbar_contentInsetStart;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::App1.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_logo = global::App1.Resource.Styleable.Toolbar_logo;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_logoDescription = global::App1.Resource.Styleable.Toolbar_logoDescription;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_maxButtonHeight = global::App1.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_menu = global::App1.Resource.Styleable.Toolbar_menu;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_navigationContentDescription = global::App1.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_navigationIcon = global::App1.Resource.Styleable.Toolbar_navigationIcon;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_popupTheme = global::App1.Resource.Styleable.Toolbar_popupTheme;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_subtitle = global::App1.Resource.Styleable.Toolbar_subtitle;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_subtitleTextAppearance = global::App1.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_subtitleTextColor = global::App1.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_title = global::App1.Resource.Styleable.Toolbar_title;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleMargin = global::App1.Resource.Styleable.Toolbar_titleMargin;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleMarginBottom = global::App1.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleMarginEnd = global::App1.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleMargins = global::App1.Resource.Styleable.Toolbar_titleMargins;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleMarginStart = global::App1.Resource.Styleable.Toolbar_titleMarginStart;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleMarginTop = global::App1.Resource.Styleable.Toolbar_titleMarginTop;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleTextAppearance = global::App1.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::NotXamarin.Core.Resource.Styleable.Toolbar_titleTextColor = global::App1.Resource.Styleable.Toolbar_titleTextColor;
+			global::NotXamarin.Core.Resource.Styleable.View = global::App1.Resource.Styleable.View;
+			global::NotXamarin.Core.Resource.Styleable.ViewBackgroundHelper = global::App1.Resource.Styleable.ViewBackgroundHelper;
+			global::NotXamarin.Core.Resource.Styleable.ViewBackgroundHelper_android_background = global::App1.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::NotXamarin.Core.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::App1.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::NotXamarin.Core.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::App1.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::NotXamarin.Core.Resource.Styleable.ViewStubCompat = global::App1.Resource.Styleable.ViewStubCompat;
+			global::NotXamarin.Core.Resource.Styleable.ViewStubCompat_android_id = global::App1.Resource.Styleable.ViewStubCompat_android_id;
+			global::NotXamarin.Core.Resource.Styleable.ViewStubCompat_android_inflatedId = global::App1.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::NotXamarin.Core.Resource.Styleable.ViewStubCompat_android_layout = global::App1.Resource.Styleable.ViewStubCompat_android_layout;
+			global::NotXamarin.Core.Resource.Styleable.View_android_focusable = global::App1.Resource.Styleable.View_android_focusable;
+			global::NotXamarin.Core.Resource.Styleable.View_android_theme = global::App1.Resource.Styleable.View_android_theme;
+			global::NotXamarin.Core.Resource.Styleable.View_paddingEnd = global::App1.Resource.Styleable.View_paddingEnd;
+			global::NotXamarin.Core.Resource.Styleable.View_paddingStart = global::App1.Resource.Styleable.View_paddingStart;
+			global::NotXamarin.Core.Resource.Styleable.View_theme = global::App1.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::App1.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::App1.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::App1.Resource.Attribute.fontProviderAuthority;
@@ -3807,310 +5509,319 @@ namespace App1
 			public const int never = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int none = 2131230862;
+			public const int newsImage = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int normal = 2131230863;
+			public const int newsListView = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int notification_background = 2131230864;
+			public const int newsTitle = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int notification_main_column = 2131230865;
+			public const int none = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int notification_main_column_container = 2131230866;
+			public const int normal = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int off = 2131230867;
+			public const int notification_background = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int on = 2131230868;
+			public const int notification_main_column = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int outline = 2131230869;
+			public const int notification_main_column_container = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int parallax = 2131230870;
+			public const int off = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int parentPanel = 2131230871;
+			public const int on = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int parent_matrix = 2131230872;
+			public const int outline = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int pin = 2131230873;
+			public const int parallax = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int progress_circular = 2131230874;
+			public const int parentPanel = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int progress_horizontal = 2131230875;
+			public const int parent_matrix = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int radio = 2131230876;
+			public const int pin = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int right = 2131230877;
+			public const int progress_circular = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int right_icon = 2131230878;
+			public const int progress_horizontal = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int right_side = 2131230879;
+			public const int radio = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int save_non_transition_alpha = 2131230880;
+			public const int right = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int save_overlay_view = 2131230881;
+			public const int right_icon = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int screen = 2131230882;
+			public const int right_side = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int scroll = 2131230883;
-			
-			// aapt resource value: 0x7F0800A7
-			public const int scrollable = 2131230887;
+			public const int save_non_transition_alpha = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int scrollIndicatorDown = 2131230884;
+			public const int save_overlay_view = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int scrollIndicatorUp = 2131230885;
+			public const int screen = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int scrollView = 2131230886;
-			
-			// aapt resource value: 0x7F0800A8
-			public const int search_badge = 2131230888;
-			
-			// aapt resource value: 0x7F0800A9
-			public const int search_bar = 2131230889;
+			public const int scroll = 2131230886;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int search_button = 2131230890;
+			public const int scrollable = 2131230890;
+			
+			// aapt resource value: 0x7F0800A7
+			public const int scrollIndicatorDown = 2131230887;
+			
+			// aapt resource value: 0x7F0800A8
+			public const int scrollIndicatorUp = 2131230888;
+			
+			// aapt resource value: 0x7F0800A9
+			public const int scrollView = 2131230889;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int search_close_btn = 2131230891;
+			public const int search_badge = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int search_edit_frame = 2131230892;
+			public const int search_bar = 2131230892;
 			
 			// aapt resource value: 0x7F0800AD
-			public const int search_go_btn = 2131230893;
+			public const int search_button = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int search_mag_icon = 2131230894;
+			public const int search_close_btn = 2131230894;
 			
 			// aapt resource value: 0x7F0800AF
-			public const int search_plate = 2131230895;
+			public const int search_edit_frame = 2131230895;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int search_src_text = 2131230896;
+			public const int search_go_btn = 2131230896;
 			
 			// aapt resource value: 0x7F0800B1
-			public const int search_voice_btn = 2131230897;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int selected = 2131230899;
+			public const int search_mag_icon = 2131230897;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int select_dialog_listview = 2131230898;
+			public const int search_plate = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int search_src_text = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int search_voice_btn = 2131230900;
+			
+			// aapt resource value: 0x7F0800B6
+			public const int selected = 2131230902;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int select_dialog_listview = 2131230901;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F0800B4
-			public const int shortcut = 2131230900;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int showCustom = 2131230901;
-			
-			// aapt resource value: 0x7F0800B6
-			public const int showHome = 2131230902;
-			
 			// aapt resource value: 0x7F0800B7
-			public const int showTitle = 2131230903;
+			public const int shortcut = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int smallLabel = 2131230904;
+			public const int showCustom = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int snackbar_action = 2131230905;
+			public const int showHome = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int snackbar_text = 2131230906;
+			public const int showTitle = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int snap = 2131230907;
+			public const int smallLabel = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int snapMargins = 2131230908;
+			public const int snackbar_action = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int spacer = 2131230909;
+			public const int snackbar_text = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int split_action_bar = 2131230910;
+			public const int snap = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int src_atop = 2131230911;
+			public const int snapMargins = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int src_in = 2131230912;
+			public const int spacer = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int src_over = 2131230913;
+			public const int split_action_bar = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int start = 2131230914;
+			public const int src_atop = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int stretch = 2131230915;
+			public const int src_in = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int submenuarrow = 2131230916;
+			public const int src_over = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int submit_area = 2131230917;
+			public const int start = 2131230917;
+			
+			// aapt resource value: 0x7F0800C6
+			public const int stretch = 2131230918;
+			
+			// aapt resource value: 0x7F0800C7
+			public const int submenuarrow = 2131230919;
+			
+			// aapt resource value: 0x7F0800C8
+			public const int submit_area = 2131230920;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800C6
-			public const int tabMode = 2131230918;
-			
-			// aapt resource value: 0x7F0800C7
-			public const int tag_accessibility_actions = 2131230919;
-			
-			// aapt resource value: 0x7F0800C8
-			public const int tag_accessibility_clickable_spans = 2131230920;
-			
 			// aapt resource value: 0x7F0800C9
-			public const int tag_accessibility_heading = 2131230921;
+			public const int tabMode = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int tag_accessibility_pane_title = 2131230922;
+			public const int tag_accessibility_actions = 2131230922;
 			
 			// aapt resource value: 0x7F0800CB
-			public const int tag_screen_reader_focusable = 2131230923;
+			public const int tag_accessibility_clickable_spans = 2131230923;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int tag_transition_group = 2131230924;
+			public const int tag_accessibility_heading = 2131230924;
 			
 			// aapt resource value: 0x7F0800CD
-			public const int tag_unhandled_key_event_manager = 2131230925;
+			public const int tag_accessibility_pane_title = 2131230925;
 			
 			// aapt resource value: 0x7F0800CE
-			public const int tag_unhandled_key_listeners = 2131230926;
+			public const int tag_screen_reader_focusable = 2131230926;
 			
 			// aapt resource value: 0x7F0800CF
-			public const int text = 2131230927;
+			public const int tag_transition_group = 2131230927;
 			
 			// aapt resource value: 0x7F0800D0
-			public const int text2 = 2131230928;
-			
-			// aapt resource value: 0x7F0800D5
-			public const int textinput_counter = 2131230933;
-			
-			// aapt resource value: 0x7F0800D6
-			public const int textinput_error = 2131230934;
-			
-			// aapt resource value: 0x7F0800D7
-			public const int textinput_helper_text = 2131230935;
+			public const int tag_unhandled_key_event_manager = 2131230928;
 			
 			// aapt resource value: 0x7F0800D1
-			public const int textSpacerNoButtons = 2131230929;
+			public const int tag_unhandled_key_listeners = 2131230929;
 			
 			// aapt resource value: 0x7F0800D2
-			public const int textSpacerNoTitle = 2131230930;
+			public const int text = 2131230930;
 			
 			// aapt resource value: 0x7F0800D3
-			public const int textStart = 2131230931;
-			
-			// aapt resource value: 0x7F0800D4
-			public const int text_input_password_toggle = 2131230932;
+			public const int text2 = 2131230931;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int time = 2131230936;
+			public const int textinput_counter = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int title = 2131230937;
+			public const int textinput_error = 2131230937;
 			
 			// aapt resource value: 0x7F0800DA
-			public const int titleDividerNoCustom = 2131230938;
+			public const int textinput_helper_text = 2131230938;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int textSpacerNoButtons = 2131230932;
+			
+			// aapt resource value: 0x7F0800D5
+			public const int textSpacerNoTitle = 2131230933;
+			
+			// aapt resource value: 0x7F0800D6
+			public const int textStart = 2131230934;
+			
+			// aapt resource value: 0x7F0800D7
+			public const int text_input_password_toggle = 2131230935;
 			
 			// aapt resource value: 0x7F0800DB
-			public const int title_template = 2131230939;
+			public const int time = 2131230939;
 			
 			// aapt resource value: 0x7F0800DC
-			public const int toolbar = 2131230940;
+			public const int title = 2131230940;
 			
 			// aapt resource value: 0x7F0800DD
-			public const int top = 2131230941;
+			public const int titleDividerNoCustom = 2131230941;
 			
 			// aapt resource value: 0x7F0800DE
-			public const int topPanel = 2131230942;
+			public const int title_template = 2131230942;
 			
 			// aapt resource value: 0x7F0800DF
-			public const int touch_outside = 2131230943;
+			public const int toolbar = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int transition_current_scene = 2131230944;
+			public const int top = 2131230944;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int transition_layout_save = 2131230945;
+			public const int topPanel = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int transition_position = 2131230946;
+			public const int touch_outside = 2131230946;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int transition_scene_layoutid_cache = 2131230947;
+			public const int transition_current_scene = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int transition_transform = 2131230948;
+			public const int transition_layout_save = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int txtDescripcion = 2131230949;
+			public const int transition_position = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int txtTitulo = 2131230950;
+			public const int transition_scene_layoutid_cache = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int @unchecked = 2131230951;
+			public const int transition_transform = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int uniform = 2131230952;
+			public const int txtDescripcion = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int unlabeled = 2131230953;
+			public const int txtTitulo = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int up = 2131230954;
+			public const int @unchecked = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int useLogo = 2131230955;
+			public const int uniform = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int view_offset_helper = 2131230956;
+			public const int unlabeled = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int view_tree_saved_state_registry_owner = 2131230957;
+			public const int up = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int visible = 2131230958;
+			public const int useLogo = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int visible_removing_fragment_view_tag = 2131230959;
+			public const int view_offset_helper = 2131230959;
 			
 			// aapt resource value: 0x7F0800F0
-			public const int withText = 2131230960;
+			public const int view_tree_saved_state_registry_owner = 2131230960;
 			
 			// aapt resource value: 0x7F0800F1
-			public const int wrap_content = 2131230961;
+			public const int visible = 2131230961;
+			
+			// aapt resource value: 0x7F0800F2
+			public const int visible_removing_fragment_view_tag = 2131230962;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int withText = 2131230963;
+			
+			// aapt resource value: 0x7F0800F4
+			public const int wrap_content = 2131230964;
 			
 			static Id()
 			{
@@ -4377,34 +6088,40 @@ namespace App1
 			public const int mtrl_layout_snackbar_include = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int notification_action = 2131427377;
+			public const int NewsList = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int notification_action_tombstone = 2131427378;
+			public const int NewsListRow = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int notification_template_custom_big = 2131427379;
+			public const int notification_action = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int notification_template_icon_group = 2131427380;
+			public const int notification_action_tombstone = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int notification_template_part_chronometer = 2131427381;
+			public const int notification_template_custom_big = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int notification_template_part_time = 2131427382;
+			public const int notification_template_icon_group = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int select_dialog_item_material = 2131427383;
+			public const int notification_template_part_chronometer = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int select_dialog_multichoice_material = 2131427384;
+			public const int notification_template_part_time = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int select_dialog_singlechoice_material = 2131427385;
+			public const int select_dialog_item_material = 2131427385;
 			
 			// aapt resource value: 0x7F0B003A
-			public const int support_simple_spinner_dropdown_item = 2131427386;
+			public const int select_dialog_multichoice_material = 2131427386;
+			
+			// aapt resource value: 0x7F0B003B
+			public const int select_dialog_singlechoice_material = 2131427387;
+			
+			// aapt resource value: 0x7F0B003C
+			public const int support_simple_spinner_dropdown_item = 2131427388;
 			
 			static Layout()
 			{
@@ -4575,31 +6292,34 @@ namespace App1
 			public const int fallback_menu_item_share_link = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int hide_bottom_view_on_scroll_behavior = 2131623975;
+			public const int hello = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int mtrl_chip_close_icon_content_description = 2131623976;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int password_toggle_content_description = 2131623977;
+			public const int mtrl_chip_close_icon_content_description = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int path_password_eye = 2131623978;
+			public const int password_toggle_content_description = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int path_password_eye_mask_strike_through = 2131623979;
+			public const int path_password_eye = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int path_password_eye_mask_visible = 2131623980;
+			public const int path_password_eye_mask_strike_through = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int path_password_strike_through = 2131623981;
+			public const int path_password_eye_mask_visible = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int search_menu_title = 2131623982;
+			public const int path_password_strike_through = 2131623982;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int status_bar_notification_info_overflow = 2131623983;
+			public const int search_menu_title = 2131623983;
+			
+			// aapt resource value: 0x7F0E0030
+			public const int status_bar_notification_info_overflow = 2131623984;
 			
 			static String()
 			{

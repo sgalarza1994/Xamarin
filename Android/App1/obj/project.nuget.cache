@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1qu76LmX4NrM/iNB8SJ4zx9eN18TlyVLm3QI0P2bFwLAiEItJ1zr6IAu5diyj9friOHe6Xnz6BiVSph63xNDvg==",
+  "dgSpecHash": "0OCgkrk1f6NCQFHGFPQsD5t1Z/UzlyogGKW9kWWJ2zCe9amfYfehdi7W+ZOcL8qj+NyhyEldlDI0OvUT2E/6UQ==",
   "success": true,
-  "projectFilePath": "C:\\dts\\cursos\\xamarin\\App1\\App1.csproj",
+  "projectFilePath": "C:\\dts\\cursos\\xamarin\\Android\\App1\\App1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Developer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Developer\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
