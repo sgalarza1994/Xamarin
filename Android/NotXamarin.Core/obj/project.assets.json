@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v12.0": {
+    "MonoAndroid,Version=v11.0": {
       "Xamarin.AndroidX.Activity/1.1.0.3": {
         "type": "package",
         "dependencies": {
@@ -998,47 +998,47 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v12.0": [
+    "MonoAndroid,Version=v11.0": [
       "Xamarin.AndroidX.AppCompat >= 1.2.0.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Developer\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sgalarza\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dts\\cursos\\xamarin\\Android\\NotXamarin.Core\\NotXamarin.Core.csproj",
+      "projectUniqueName": "C:\\practice\\Xamarin\\Android\\NotXamarin.Core\\NotXamarin.Core.csproj",
       "projectName": "NotXamarin.Core",
-      "projectPath": "C:\\dts\\cursos\\xamarin\\Android\\NotXamarin.Core\\NotXamarin.Core.csproj",
-      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\dts\\cursos\\xamarin\\Android\\NotXamarin.Core\\obj\\",
+      "projectPath": "C:\\practice\\Xamarin\\Android\\NotXamarin.Core\\NotXamarin.Core.csproj",
+      "packagesPath": "C:\\Users\\sgalarza\\.nuget\\packages\\",
+      "outputPath": "C:\\practice\\Xamarin\\Android\\NotXamarin.Core\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\sgalarza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid12.0"
+        "monoandroid11.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid12.0": {
+        "monoandroid11.0": {
           "projectReferences": {}
         }
       }
     },
     "frameworks": {
-      "monoandroid12.0": {
+      "monoandroid11.0": {
         "dependencies": {
           "Xamarin.AndroidX.AppCompat": {
             "target": "Package",

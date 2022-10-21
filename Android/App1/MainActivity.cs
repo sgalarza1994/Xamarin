@@ -28,6 +28,7 @@ namespace App1
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             fab.Click += FabOnClick;
 
+            PrepareActionBar();
 
             var id = Intent.Extras.GetInt(KEY_ID);
 
@@ -77,5 +78,11 @@ namespace App1
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
-	}
+
+        public  void PrepareActionBar()
+        {
+
+        }
+
+    }
 }
